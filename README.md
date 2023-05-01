@@ -8,7 +8,7 @@ Since database used is MySQL, you will need the following thigs to run the proje
 2. Few external libraries as follows:  
   i. `my-sql-connector` to connect to database using **JDBC**(Java Database Connectivity) and run required queries.  
   ii. `jcalander`, an externel library to add calander into system where required.  
-  iii. `rs2xml` to convert **ResultSet**, resulted from running queries, into xml to easilty display result into **JTable**. 
+  iii. `rs2xml` to convert **ResultSet**, resulted from running queries, into xml to easilty display result into **JTable**.  
 All of the libraries are available inside jar folder
 # Running the code
 Attach all three libraries to your project and run `Login.java`.
