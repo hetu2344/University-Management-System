@@ -11,7 +11,8 @@ Since database used is MySQL, you will need the following thigs to run the proje
   iii. `rs2xml` to convert **ResultSet**, resulted from running queries, into xml to easilty display result into **JTable**.  
 All of the libraries are available inside jar folder
 # Running the code
-Attach all three libraries to your project and run `Login.java`.
+Attach all three libraries to your project and run `Login.java`.  
+There will be only **1** login credentials, i.e., only **1** admin: `username`: admin & `password`: 12345
 # Current State
 Since the database connected is a local database, if there doesn’t exist any exat database which is used to make the application,
 the program might run into error and crash.  
