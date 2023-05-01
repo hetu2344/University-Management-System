@@ -21,7 +21,7 @@ consequently and lead into some errors and crashes.
 I am working to make a class that will create the necessary database into the users computer locally and will also assess the issue of 
 different username and password for each device by asking for the username and password (**If you have MySQL downloaded**) or 
 will use another database called `Apache Derby` which does not require any username and password to eatablish aonnectivity.  
-Also, it upto the user which database they what, either `MySQL` or `Apache Derby`.  
+Also, it is upto the user which database they want to use, either `MySQL` or `Apache Derby`.  
 Note: To develop this kind of class, it will take few days.  
       Once the desired project is completed, I will modify and add comments to code for better understanding.  
 # Updates
