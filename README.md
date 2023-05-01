@@ -18,7 +18,7 @@ the program might run into error and crash.
 Another issue is that MySQL require a `username` and `password`, to establish connectivity, which can vary from device to device and 
 consequently and lead into some errors and crashes.  
 ## Solution
-I am working to make a class that will create the necessary database into the users computer and will also assess the issue of 
+I am working to make a class that will create the necessary database into the users computer locally and will also assess the issue of 
 different username and password for each device by asking for the username and password (**If you have MySQL downloaded**) or 
 will use another database called `Apache Derby` which does not require any username and password to eatablish aonnectivity.  
 Also, it upto the user which database they what, either `MySQL` or `Apache Derby`.  
