@@ -22,7 +22,7 @@ I am working to make a class that will create the necessary database into the us
 different username and password for each device by asking for the username and password (**If you have MySQL downloaded**) or 
 will use another database called `Apache Derby` which does not require any username and password to eatablish aonnectivity.  
 Also, it is upto the user which database they want to use, either `MySQL` or `Apache Derby`.  
-Note: To develop this kind of class, it will take few days.  
+**Note**: To develop this kind of class, it will take few days.  
       Once the desired project is completed, I will modify and add comments to code for better understanding.  
 # Updates
 Any changes regarding source code will be updated as they are made and can be seen in `updates.md` file.
