@@ -1,0 +1,151 @@
+﻿fname,mname,lname,empID,dob,address,mobile,email,faculty
+Aila,Ariadne,Macias,1403752589,17-May-70,"191 Maiden St., Irvington, NJ 07111",(972) 347-5729,maciasAI@uni.db,Humanities
+Katelyn,Jubilee,Flores,1403949540,10-Jan-80,"92 Windfall Dr., Myrtle Beach, SC 29577",(511) 744-5218,floresKA@uni.db,Humanities
+Sariyah,Riya,Hendrix,1403550485,02-Nov-82,"965 Nut Swamp Rd., Troy, NY 12180",(544) 493-5540,hendrixSA@uni.db,Agriculture
+Azariah,Zyla,Knapp,1403444076,02-Sep-83,"8192 Ridgewood Dr., Mount Vernon, NY 10550",(780) 201-7577,knappAZ@uni.db,Science
+Bexley,Aminah,Strickland,1403314633,11-Aug-77,"17 East Schoolhouse Drive, Ithaca, NY 14850",(508) 750-5502,stricklandBE@uni.db,Humanities
+Giana,Campbell,Mccoy,1403613667,29-Jan-84,"986 Dunbar Ave., Painesville, OH 44077",(604) 896-2397,mccoyGI@uni.db,Humanities
+Lea,Meera,Frazier,1403254288,15-Jan-77,"550 Leeton Ridge Dr., Homestead, FL 33030",(742) 212-9016,frazierLE@uni.db,Humanities
+Cadence,Tara,Atkinson,1403556320,28-Mar-71,"939 Rockcrest Street, Saratoga Springs, NY 12866",(459) 205-3947,atkinsonCA@uni.db,Science
+Mavis,Aadhya,Hicks,1403306669,30-May-74,"84 Walnut Street, Aiken, SC 29803",(922) 727-7037,hicksMA@uni.db,Agriculture
+Ila,Jayde,Deleon,1403860331,13-Apr-82,"924 Rose Rd., East Orange, NJ 07017",(285) 358-1006,deleonIL@uni.db,Science
+Rivka,Patricia,Sanford,1403124809,18-Mar-68,"666 Woodside Lane, Gastonia, NC 28052",(818) 235-7689,sanfordRI@uni.db,Arts
+Jovie,Raylynn,Delacruz,1403395864,08-Dec-78,"11 Glenholme Drive, Charlottesville, VA 22901",(427) 847-9565,delacruzJO@uni.db,Agriculture
+Yareli,Robyn,Klein,1403659074,28-Sep-80,"299 Durham St., Miami, FL 33125",(411) 852-5481,kleinYA@uni.db,Arts
+Bellamy,Dalilah,Macdonald,1403334066,08-Dec-83,"437 SW. Belmont Lane, Fort Wayne, IN 46804",(325) 350-5170,macdonaldBE@uni.db,Agriculture
+Kamiyah,Emilie,Marshall,1403428674,21-Sep-79,"489 Poplar Drive, Grovetown, GA 30813",(248) 737-3242,marshallKA@uni.db,Arts
+Kara,Janessa,Steele,1403739895,26-Jul-83,"514 South Littleton Street, Findlay, OH 45840",(698) 569-3588,steeleKA@uni.db,Architecture
+Baylee,Kacey,Khan,1403910722,21-Oct-85,"102 Ann St., New Hyde Park, NY 11040",(381) 216-1535,khanBA@uni.db,Engineering
+Jianna,Khadija,Madden,1403639126,13-Jan-90,"836 High Ridge St., Sevierville, TN 37876",(898) 893-7809,maddenJI@uni.db,Arts
+Kai,Madalynn,Foley,1403580315,17-Mar-89,"724 South Windsor St., Fairport, NY 14450",(461) 831-2260,foleyKA@uni.db,Arts
+Alena,Milah,Vang,1403915903,03-Feb-85,"9117 N. New Rd., North Attleboro, MA 02760",(477) 635-9744,vangAL@uni.db,Humanities
+Novalee,Viola,Briggs,1403325656,09-May-73,"80 Ashley Lane, Melbourne, FL 32904",(995) 894-6281,briggsNO@uni.db,Engineering
+Elliot,Ayanna,Potter,1403243110,18-Feb-72,"22 Wellington Ave., Milledgeville, GA 31061",(477) 989-2728,potterEL@uni.db,Science
+Livia,Kinsleigh,Elliott,1403748770,07-Jan-79,"22 West York Court, Cumming, GA 30040",(607) 769-8076,elliottLI@uni.db,Humanities
+Ashlynn,Maliah,Diaz,1403918226,03-May-84,"182 South Newport St., Roseville, MI 48066",(971) 642-5679,diazAS@uni.db,Engineering
+Denver,Alaiyah,Vincent,1403686626,04-Jul-83,"8778 Grand Avenue, West Des Moines, IA 50265",(614) 773-9041,vincentDE@uni.db,Humanities
+Emmalyn,Alannah,Christensen,1403360845,06-Jun-69,"7816 James Dr., Griffin, GA 30223",(448) 451-7559,christensenEM@uni.db,Agriculture
+Persephone,Amiya,Joseph,1403465558,26-Jul-69,"76 Aspen St., Savage, MN 55378",(709) 239-7788,josephPE@uni.db,Social Work
+Marceline,Mollie,Roman,1403652131,29-Sep-70,"8738 Vernon Ave., Warwick, RI 02886",(661) 841-2058,romanMA@uni.db,Architecture
+Jazmine,Neveah,Sosa,1403150052,28-Feb-85,"9406 Joy Ridge Drive, Carrollton, GA 30117",(554) 317-4421,sosaJA@uni.db,Social Work
+Kiana,Roxanne,Beck,1403672771,14-Aug-80,"9090 Squaw Creek Drive, Malden, MA 02148",(252) 876-5599,beckKI@uni.db,Arts
+Mikaela,Adrienne,Merritt,1403536822,23-Apr-73,"90 Main Ave., Waterford, MI 48329",(840) 442-8842,merrittMI@uni.db,Engineering
+Aliya,Betty,Fernandez,1403981843,03-Aug-71,"7504 Applegate Rd., Bradenton, FL 34203",(529) 420-8381,fernandezAL@uni.db,Science
+Galilea,Ivana,Morton,1403285320,20-May-83,"9915 South Edgewater Rd., Eau Claire, WI 54701",(309) 641-2521,mortonGA@uni.db,Engineering
+Harlee,Lailah,Dudley,1403220203,14-Jul-71,"8696 Colonial Court, Chicago, IL 60621",(539) 236-6567,dudleyHA@uni.db,Engineering
+Jaylah,Bernadette,Campos,1403665357,05-Dec-82,"496 Adams Dr., Great Falls, MT 59404",(564) 989-2303,camposJA@uni.db,Science
+Lillie,Hailee,Kemp,1403809696,11-Aug-68,"26 Brickyard Street, Erlanger, KY 41018",(201) 694-5574,kempLI@uni.db,Social Work
+Mercy,Libby,Buck,1403645278,12-Apr-76,"72 Essex Ave., Redford, MI 48239",(224) 574-3969,buckME@uni.db,Arts
+Ensley,Yuna,Brady,1403708292,01-Sep-70,"60 Brickell Street, Camp Hill, PA 17011",(352) 304-7300,bradyEN@uni.db,Agriculture
+Bria,Celina,Lewis,1403869812,06-Jan-81,"7998 Pilgrim Street, Dacula, GA 30019",(639) 330-1026,lewisBR@uni.db,Engineering
+Kallie,Chiara,King,1403342784,20-Sep-75,"777 Bank Street, Moorhead, MN 56560",(412) 216-5550,kingKA@uni.db,Arts
+Celia,Margaux,Faulkner,1403324322,13-Feb-69,"547 Constitution Road, Alliance, OH 44601",(779) 856-4911,faulknerCE@uni.db,Architecture
+Berkley,Adela,Moreno,1403591329,26-Jul-75,"42 Glen Eagles Lane, Jamaica, NY 11432",(971) 988-0890,morenoBE@uni.db,Engineering
+Ramona,Akira,Schultz,1403514378,20-Jun-77,"7431 Orchard St., Hackettstown, NJ 07840",(919) 929-3665,schultzRA@uni.db,Agriculture
+Jaylani,Andie,Turner,1403895035,08-Apr-76,"22 Willow Court, Maplewood, NJ 07040",(279) 687-1579,turnerJA@uni.db,Engineering
+Jessie,Evalyn,Salazar,1403971156,14-Apr-73,"34 Brook Drive, Carlisle, PA 17013",(534) 436-1425,salazarJE@uni.db,Architecture
+Aubrie,Vivianna,Odonnell,1403388284,18-Oct-75,"31 Ridgewood Ave., Ann Arbor, MI 48103",(629) 958-9627,odonnellAU@uni.db,Humanities
+Madisyn,Lillianna,Osborn,1403555417,20-Feb-79,"86 Newport Street, Matthews, NC 28104",(741) 278-5820,osbornMA@uni.db,Arts
+Paulina,Elayna,Hickman,1403696821,13-Jun-83,"175 Walnutwood St., Garfield, NJ 07026",(433) 601-7713,hickmanPA@uni.db,Science
+Averi,Kamora,Ramsey,1403909556,03-Mar-89,"8077 Chapel St., Woodhaven, NY 11421",(710) 975-8697,ramseyAV@uni.db,Engineering
+Aya,Kassandra,Alvarez,1403905542,20-Oct-76,"9141 Dunbar Ave., Fort Washington, MD 20744",(976) 345-0991,alvarezAY@uni.db,Humanities
+Chana,Erica,Michael,1403101894,04-Aug-79,"12 Andover Drive, Laurel, MD 20707",(580) 714-6033,michaelCH@uni.db,Humanities
+Milana,Kinzley,Jordan,1403585547,10-Jul-82,"61 Kent Drive, Trenton, NJ 08610",(627) 683-2612,jordanMI@uni.db,Social Work
+Cleo,Miya,Bolton,1403565139,17-Feb-74,"8878 Primrose Avenue, Burke, VA 22015",(980) 639-3202,boltonCL@uni.db,Architecture
+Iyla,Zahara,Rivera,1403562736,02-Apr-80,"681 W. Meadow Court, Westlake, OH 44145",(708) 381-4083,riveraIY@uni.db,Humanities
+Cynthia,Brenda,Everett,1403671388,13-Aug-83,"705 Shirley Drive, Waxhaw, NC 28173",(379) 863-7015,everettCY@uni.db,Agriculture
+Hana,Farrah,Rice,1403531578,08-Dec-83,"7010 Young St., Venice, FL 34293",(418) 591-8447,riceHA@uni.db,Agriculture
+Lacey,Perla,Mata,1403254584,16-Jun-74,"24 Shadow Brook Dr., Menomonee Falls, WI 53051",(810) 737-7850,mataLA@uni.db,Arts
+Andi,Maelynn,Barnett,1403157656,24-Jun-83,"7037 Paris Hill Rd., Thibodaux, LA 70301",(492) 414-1657,barnettAN@uni.db,Social Work
+Giuliana,Rubi,Cherry,1403712918,12-Apr-75,"15 Evergreen Street, Superior, WI 54880",(241) 734-3716,cherryGI@uni.db,Social Work
+Milena,Cherish,Kennedy,1403768653,03-Mar-81,"7181 Marlborough St., Winter Haven, FL 33880",(200) 725-1269,kennedyMI@uni.db,Arts
+Leilany,Journei,Mueller,1403825172,23-Apr-89,"85 Circle Street, Staten Island, NY 10301",(757) 234-9772,muellerLE@uni.db,Architecture
+Saoirse,Wendy,Gross,1403774599,29-Oct-71,"1 E. Jefferson Avenue, Bozeman, MT 59715",(217) 343-8580,grossSA@uni.db,Engineering
+Adele,Kaleah,Boyd,1403483108,03-Oct-89,"10 N. Spruce St., Murrells Inlet, SC 29576",(859) 773-9101,boydAD@uni.db,Arts
+Drew,Kamilla,Fields,1403150171,29-Mar-90,"9347 South Studebaker St., West Roxbury, MA 02132",(631) 658-8643,fieldsDR@uni.db,Humanities
+Bailee,Katerina,Franklin,1403885774,16-Sep-69,"29 Surrey Dr., Oak Lawn, IL 60453",(207) 623-7395,franklinBA@uni.db,Humanities
+Hunter,Lailani,Vazquez,1403501611,22-Apr-78,"7636 Essex Rd., South Bend, IN 46614",(729) 663-4815,vazquezHU@uni.db,Architecture
+Rayne,Lindsey,Floyd,1403560218,03-Apr-78,"14 Wall Ave., Hallandale, FL 33009",(497) 569-9757,floydRA@uni.db,Humanities
+Anais,Jewel,Ritter,1403220272,09-Jul-84,"36 1st St., Maryville, TN 37803",(435) 387-3928,ritterAN@uni.db,Social Work
+Kamari,Sally,Ellison,1403603938,13-May-86,"103 Philmont Street, Warner Robins, GA 31088",(643) 287-5668,ellisonKA@uni.db,Agriculture
+Paula,Alba,Taylor,1403496982,11-Mar-72,"962 Shore Ave., Capitol Heights, MD 20743",(276) 406-1090,taylorPA@uni.db,Science
+Rosalee,Caylee,Lawrence,1403506012,25-Oct-89,"9947 John Rd., Hempstead, NY 11550",(851) 649-5850,lawrenceRO@uni.db,Arts
+Teresa,Cielo,Montgomery,1403733004,18-Apr-86,"313 Laurel Street, Lebanon, PA 17042",(471) 768-7109,montgomeryTE@uni.db,Engineering
+Zora,Inaya,Estrada,1403671811,25-Jun-87,"347 S. Old York Ave., Sioux Falls, SD 57103",(370) 238-5592,estradaZO@uni.db,Agriculture
+Avah,Kaelyn,Terrell,1403502936,01-Feb-90,"803 N. Wilson Drive, Kissimmee, FL 34741",(770) 449-3293,terrellAV@uni.db,Arts
+Belen,Maisyn,Mcintosh,1403690883,16-Mar-76,"972 Hilltop Ave., Eden Prairie, MN 55347",(336) 594-4047,mcintoshBE@uni.db,Architecture
+Greta,Siya,Richard,1403859508,02-Jul-89,"403 East Dunbar St., Dearborn, MI 48124",(430) 938-7784,richardGR@uni.db,Science
+Layne,Sonia,Williams,1403990294,30-Dec-78,"266 Greenview Street, Defiance, OH 43512",(276) 865-7221,williamsLA@uni.db,Architecture
+Scout,Alisa,Roth,1403730339,17-Dec-80,"95 West Arch St., Sumter, SC 29150",(852) 917-1554,rothSC@uni.db,Architecture
+Zaniyah,Arlet,Hale,1403655089,08-Nov-69,"640 Queen Drive, Depew, NY 14043",(970) 907-4498,haleZA@uni.db,Engineering
+Amelie,Avalyn,Morales,1403900830,10-Apr-87,"8717 Princess Court, Woodside, NY 11377",(476) 439-0115,moralesAM@uni.db,Social Work
+Dulce,Alya,Hall,1403136099,02-Jan-73,"8765 Marlborough Dr., Winder, GA 30680",(783) 270-6782,hallDU@uni.db,Humanities
+Chanel,Denise,Maddox,1403291503,03-Jan-68,"931 10th Lane, Wilmington, MA 01887",(888) 994-4479,maddoxCH@uni.db,Agriculture
+Clare,Gaia,Torres,1403576625,23-Jun-90,"340 Hall Ave., New Berlin, WI 53151",(288) 722-8112,torresCL@uni.db,Engineering
+Rebekah,Marjorie,Ewing,1403938031,09-Feb-85,"994 Wagon Rd., Rego Park, NY 11374",(962) 243-0583,ewingRE@uni.db,Humanities
+Giovanna,Mercedes,Curry,1403955053,03-Jul-87,"8099 Hartford Rd., Massapequa, NY 11758",(266) 764-8179,curryGI@uni.db,Social Work
+Ellison,Xena,Burgess,1403450931,29-Sep-76,"84 King Street, Wilkes Barre, PA 18702",(603) 696-1728,burgessEL@uni.db,Agriculture
+Isabela,Amia,Mcguire,1403615630,05-Mar-77,"724 Canterbury Street, Winter Garden, FL 34787",(669) 519-7297,mcguireIS@uni.db,Social Work
+Kaydence,Ayva,Rojas,1403427715,14-Sep-72,"13 Amerige Dr., Norman, OK 73072",(416) 454-6767,rojasKA@uni.db,Engineering
+Rosalyn,Beverly,Erickson,1403719407,02-Jun-70,"74 Brook St., Saint Paul, MN 55104",(325) 833-0187,ericksonRO@uni.db,Engineering
+Royal,Cassie,Gentry,1403779892,26-Dec-89,"4 Church Ave., Mahwah, NJ 07430",(447) 946-0627,gentryRO@uni.db,Engineering
+Alianna,Elani,Norman,1403944358,17-Sep-78,"120B North Greenrose Street, North Kingstown, RI 02852",(211) 675-0222,normanAL@uni.db,Agriculture
+August,Tenley,Bush,1403779622,16-Jul-74,"4 Pennsylvania Road, Smyrna, GA 30080",(940) 362-6243,bushAU@uni.db,Humanities
+Nyra,Anniston,Lester,1403642648,27-Jan-73,"34 Birchpond Dr., San Antonio, TX 78213",(786) 326-5611,lesterNY@uni.db,Humanities
+Vienna,Atlas,Wolfe,1403322073,06-Mar-74,"836 Mayfield St., Mcminnville, TN 37110",(417) 315-2774,wolfeVI@uni.db,Social Work
+Amoura,Darla,Walters,1403498962,13-Sep-87,"7967 Arcadia Rd., Goose Creek, SC 29445",(938) 750-9275,waltersAM@uni.db,Science
+Anika,Emberlee,Acosta,1403748579,08-Jun-71,"771 Front Street, Adrian, MI 49221",(489) 305-4501,acostaAN@uni.db,Arts
+Harmoni,Lianna,Duke,1403233933,07-May-72,"7 Ridge Court, Meriden, CT 06450",(871) 403-4442,dukeHA@uni.db,Social Work
+Kelly,Marissa,Sweeney,1403468789,03-Feb-75,"733 High Noon St., Yuma, AZ 85365",(264) 539-8053,sweeneyKE@uni.db,Science
+Linda,Alisha,Cervantes,1403148296,27-Dec-68,"320 South Bellevue St., Hernando, MS 38632",(501) 874-3775,cervantesLI@uni.db,Humanities
+Aubriella,Alyvia,Koch,1403169580,08-Jun-76,"613 West Green Lake Dr., Cockeysville, MD 21030",(639) 846-5157,kochAU@uni.db,Architecture
+Kairi,Cambria,Norton,1403150145,05-Apr-84,"409 Nichols Ave., Upland, CA 91784",(587) 984-1618,nortonKA@uni.db,Humanities
+Ryann,Evalynn,Watts,1403627948,27-Jan-76,"874 Lookout Ave., Mason City, IA 50401",(642) 320-3386,wattsRY@uni.db,Architecture
+Avayah,Kadence,Wilkins,1403168712,16-Dec-85,"738 Del Monte St., Bemidji, MN 56601",(501) 259-4905,wilkinsAV@uni.db,Humanities
+Gwen,Mariella,Bradshaw,1403201714,04-Feb-82,"18A Randall Mill Drive, Sheboygan, WI 53081",(351) 251-4491,bradshawGW@uni.db,Humanities
+Whitley,Mazie,Mccullough,1403648558,23-Aug-69,"9 Philmont St., Hendersonville, NC 28792",(942) 831-4641,mcculloughWH@uni.db,Agriculture
+Noor,Nahla,Lane,1403452310,01-Oct-80,"60 Old Grand Rd., Webster, NY 14580",(719) 657-4481,laneNO@uni.db,Agriculture
+Khalani,Sharon,Ramos,1403139367,02-Jul-83,"479 N. Hanover Road, Stockbridge, GA 30281",(256) 442-0928,ramosKH@uni.db,Social Work
+Marianna,Aylani,Sheppard,1403974412,19-Jun-77,"87 Myers St., Pittsfield, MA 01201",(372) 704-1691,sheppardMA@uni.db,Arts
+Addyson,Amyra,Jennings,1403652686,18-Apr-83,"803 Manhattan Lane, Ottawa, IL 61350",(889) 436-3319,jenningsAD@uni.db,Science
+Annika,Evelina,Mayo,1403628939,26-Nov-74,"545 Delaware St., Piedmont, SC 29673",(851) 571-7251,mayoAN@uni.db,Humanities
+Karter,Jasmin,Barrett,1403883664,06-Jan-85,"17 Buttonwood St., Somerset, NJ 08873",(605) 650-6162,barrettKA@uni.db,Social Work
+Vada,Layan,Oneal,1403360026,06-May-77,"7 South East Street, Clementon, NJ 08021",(803) 541-6901,onealVA@uni.db,Engineering
+Tiffany,Abril,Camacho,1403295715,16-Oct-80,"666 Gonzales Street, Pawtucket, RI 02860",(987) 874-4586,camachoTI@uni.db,Engineering
+Artemis,Elowen,Woods,1403540972,15-Jan-79,"437 Dunbar Dr., Augusta, GA 30906",(609) 748-7561,woodsAR@uni.db,Agriculture
+Clover,Emilee,Kelley,1403896771,23-Nov-80,"66 North Ridge Ave., Chardon, OH 44024",(914) 835-6497,kelleyCL@uni.db,Agriculture
+Laylah,Solana,Hoffman,1403943265,24-Dec-87,"7239 Race Rd., Holyoke, MA 01040",(904) 995-6497,hoffmanLA@uni.db,Social Work
+Paisleigh,Zella,Simmons,1403481628,02-Mar-75,"2 North Thomas Ave., Harvey, IL 60426",(353) 745-7729,simmonsPA@uni.db,Architecture
+Elyse,Moriah,Noble,1403493467,22-Apr-75,"871 Beaver Ridge Court, Simpsonville, SC 29680",(641) 398-3483,nobleEL@uni.db,Agriculture
+Kaisley,Sterling,Sparks,1403624725,31-Aug-79,"108 E. Birch Hill St., Metairie, LA 70001",(318) 628-3502,sparksKA@uni.db,Architecture
+Veda,Dalett,Stevenson,1403587134,18-Aug-75,"90 Honey Creek Street, Wheaton, IL 60187",(920) 863-3303,stevensonVE@uni.db,Science
+Zendaya,Kamille,Riddle,1403993803,17-Mar-71,"141 Sherwood Court, Freehold, NJ 07728",(510) 302-7808,riddleZE@uni.db,Agriculture
+Simone,Nayla,Flowers,1403917720,06-Apr-80,"7159 E. Albany Ave., Liverpool, NY 13090",(788) 578-6319,flowersSI@uni.db,Social Work
+Alexia,Rowen,Patrick,1403583039,17-Feb-86,"7352 Oak Meadow Avenue, Barrington, IL 60010",(203) 408-9424,patrickAL@uni.db,Arts
+Alisson,Rylynn,Stein,1403435749,31-Dec-83,"7445 Fordham St., North Wales, PA 19454",(497) 436-6995,steinAL@uni.db,Arts
+Angelique,Arisbeth,Ali,1403140134,25-Aug-84,"7339 Division Drive, New Albany, IN 47150",(316) 530-3074,aliAN@uni.db,Science
+Ocean,Dania,Murray,1403145611,06-Oct-77,"7402 Glen Eagles Street, Lake Villa, IL 60046",(673) 202-0324,murrayOC@uni.db,Arts
+Elia,Yaritza,Spears,1403585540,22-Dec-87,"7144 Young Road, Port Orange, FL 32127",(740) 930-7142,spearsEL@uni.db,Architecture
+Lilianna,Ziva,Hansen,1403978525,11-Jul-70,"7772 Henry Street, Grove City, OH 43123",(287) 465-2008,hansenLI@uni.db,Social Work
+Maleah,Kailyn,Parrish,1403734595,12-Sep-71,"300 Old Ridgewood Street, Niceville, FL 32578",(692) 661-9665,parrishMA@uni.db,Agriculture
+Avalynn,Tinley,Bowen,1403803890,30-May-76,"13 Goldfield Avenue, East Meadow, NY 11554",(655) 892-9052,bowenAV@uni.db,Humanities
+Marisol,Aida,Blanchard,1403494893,24-Aug-87,"83 Vine Ave., Owatonna, MN 55060",(504) 392-9010,blanchardMA@uni.db,Architecture
+Goldie,Giada,Wiley,1403437618,13-Oct-71,"114 Helen Dr., Lynn, MA 01902",(947) 875-1592,wileyGO@uni.db,Humanities
+Malayah,Journie,Conway,1403874960,25-May-68,"17 Bayberry Street, Levittown, NY 11756",(866) 552-4057,conwayMA@uni.db,Science
+Emmeline,Dina,Howard,1403911062,16-May-76,"89 Railroad St., Apex, NC 27502",(571) 251-6657,howardEM@uni.db,Arts
+Paloma,Jessa,Cantrell,1403363065,28-Apr-90,"10 Vernon St., Middletown, CT 06457",(484) 855-9961,cantrellPA@uni.db,Engineering
+Raina,Joey,Wilcox,1403742795,08-Jan-85,"587 Homestead Street, Dundalk, MD 21222",(757) 238-2678,wilcoxRA@uni.db,Agriculture
+Brynleigh,Laken,Cook,1403388780,13-Feb-87,"957 Ridge Ave., Ashburn, VA 20147",(893) 537-9293,cookBR@uni.db,Engineering
+Chandler,Leela,Paul,1403354050,24-Oct-76,"8106 Fawn Ave., Mount Juliet, TN 37122",(699) 220-8723,paulCH@uni.db,Architecture
+Valery,Prisha,Mcneil,1403895081,15-Jan-75,"8587 1st Lane, Loveland, OH 45140",(500) 848-4114,mcneilVA@uni.db,Architecture
+Adalee,Hensley,Leon,1403557008,23-Apr-68,"358 Mulberry St., Stevens Point, WI 54481",(751) 500-6818,leonAD@uni.db,Agriculture
+Tinsley,Selina,Page,1403305796,11-Sep-81,"9926 East Green Hill Ave., Huntington, NY 11743",(608) 645-8748,pageTI@uni.db,Agriculture
+Violeta,Colbie,Fowler,1403119134,06-Jan-77,"586 Riverside Dr., Woonsocket, RI 02895",(338) 727-4563,fowlerVI@uni.db,Agriculture
+Baylor,Emi,Mcfarland,1403278808,25-Mar-86,"8427 Green St., Raeford, NC 28376",(684) 699-2975,mcfarlandBA@uni.db,Architecture
+Lauryn,Emmarie,Moore,1403459987,03-Jan-71,"44 Elmwood Street, Jamestown, NY 14701",(856) 509-2493,mooreLA@uni.db,Agriculture
+Marlowe,Amiri,Mckenzie,1403929047,27-Dec-81,"844 Lakeview Ave., Lewiston, ME 04240",(659) 771-3760,mckenzieMA@uni.db,Science
+Birdie,Irie,Miles,1403490316,19-Apr-87,"8343 S. Santa Clara Street, Tuscaloosa, AL 35405",(436) 251-8742,milesBI@uni.db,Humanities
+Jaycee,Kalia,Duarte,1403162121,17-Sep-76,"525 E. Cedar Swamp Rd., Anderson, SC 29621",(801) 245-4824,duarteJA@uni.db,Humanities
+Lexie,Lettie,Carter,1403762139,03-Jan-74,"75 Chestnut Court, North Olmsted, OH 44070",(793) 962-0369,carterLE@uni.db,Agriculture
+Loretta,Noel,Crawford,1403614688,04-Nov-85,"27 Garfield St., Edison, NJ 08817",(916) 880-7486,crawfordLO@uni.db,Agriculture
+Lilyana,Vaeda,Harmon,1403622854,08-Nov-82,"691 North Mayflower Ave., Macon, GA 31204",(686) 454-0971,harmonLI@uni.db,Arts

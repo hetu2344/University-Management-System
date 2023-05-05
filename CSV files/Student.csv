@@ -1,0 +1,501 @@
+﻿fname,mname,lname,studentNo,dob,address,mobile,email,faculty
+Olivia,Kynsley,Chung,2344185478,19-Dec-98,"715 Glen Ridge St., Hattiesburg, MS 39401",(577) 449-1498,chungOL@myuni.db,Science
+Charlotte,Landrie,Chen,2344568350,14-Mar-96,"73 Wild Horse Ave., Athens, GA 30605",(755) 819-2681,chenCH@myuni.db,Arts
+Ava,Liara,Melton,2344862287,07-Aug-04,"9025 South Poor House St., Winter Park, FL 32792",(869) 708-5575,meltonAV@myuni.db,Arts
+Isabella,Livi,Hill,2344994400,12-Aug-97,"4 Walt Whitman Ave., Sunnyside, NY 11104",(444) 540-3259,hillIS@myuni.db,Science
+Evelyn,Marlen,Puckett,2344119383,08-Jun-05,"388 Dogwood St., Dickson, TN 37055",(214) 863-4715,puckettEV@myuni.db,Humanities
+Luna,October,Song,2344850346,08-Jan-96,"349 West Gartner St., Bethesda, MD 20814",(321) 542-1638,songLU@myuni.db,Social Work
+Gianna,Rhyleigh,Hamilton,2344762687,14-Feb-05,"181 Arch St., Melrose, MA 02176",(749) 560-5626,hamiltonGI@myuni.db,Arts
+Eleanor,Roisin,Bender,2344774728,10-Feb-05,"253 Lilac St., Hollywood, FL 33020",(596) 335-0479,benderEL@myuni.db,Humanities
+Abigail,Zen,Wagner,2344907632,19-May-04,"689 North Leeton Ridge Dr., Kalispell, MT 59901",(348) 322-1455,wagnerAB@myuni.db,Social Work
+Avery,Amna,McLaughlin,2344874930,28-Aug-95,"1 Cardinal Street, Delaware, OH 43015",(244) 632-2200,mclaughlinAV@myuni.db,Social Work
+Emily,Analucia,McNamara,2344610180,28-Sep-00,"29 Railroad Street, Upland, CA 91784",(804) 764-4955,mcnamaraEM@myuni.db,Humanities
+Penelope,Beth,Raynor,2344250480,31-Jan-00,"261 Peninsula St., West Haven, CT 06516",(302) 944-7631,raynorPE@myuni.db,Humanities
+Layla,Blaise,Moon,2344147820,06-Jul-99,"258 Pacific Street, Elizabeth City, NC 27909",(838) 905-8747,moonLA@myuni.db,Humanities
+Nora,Calia,Woodard,2344906800,16-May-00,"8506 North Studebaker Street, Parkville, MD 21234",(632) 985-2088,woodardNO@myuni.db,Arts
+Madison,Darianna,Desai,2344999356,14-Apr-98,"68 Lake Drive, Lake Jackson, TX 77566",(497) 420-7793,desaiMA@myuni.db,Arts
+Lily,Eastyn,Wallace,2344547329,29-Dec-97,"56 Edgefield Ave., Roslindale, MA 02131",(703) 328-5550,wallaceLI@myuni.db,Humanities
+Isla,Emalyn,Lawrence,2344511209,30-Sep-05,"7920 Manor Drive, Patchogue, NY 11772",(229) 842-9019,lawrenceIS@myuni.db,Engineering
+Violet,Islay,Griffin,2344427438,23-Jun-96,"9005 Canal St., Fort Walton Beach, FL 32547",(886) 771-2508,griffinVI@myuni.db,Science
+Riley,Jariah,Dougherty,2344883011,08-Jan-04,"80 Longfellow St., Newington, CT 06111",(662) 538-1292,doughertyRI@myuni.db,Architecture
+Willow,Jelani,Powers,2344492227,12-Mar-04,"77 53rd Street, Elkhart, IN 46514",(639) 832-0492,powersWI@myuni.db,Architecture
+Stella,Jozie,May,2344626903,02-Jun-03,"63 Stillwater Ave., Ashtabula, OH 44004",(380) 753-2294,mayST@myuni.db,Engineering
+Victoria,Kaylah,Steele,2344764124,14-Apr-02,"83 Old Pierce Rd., Palm Bay, FL 32907",(978) 634-8694,steeleVI@myuni.db,Arts
+Addison,Khloee,Teague,2344478470,27-May-00,"7661 N. Gainsway St., Bensalem, PA 19020",(687) 254-4385,teagueAD@myuni.db,Architecture
+Lucy,Leiah,Vick,2344513645,24-Sep-97,"16 Leatherwood St., Calumet City, IL 60409",(350) 865-3795,vickLU@myuni.db,Agriculture
+Ivy,Lexington,Gallagher,2344203073,27-Dec-99,"871 Livingston Court, Canal Winchester, OH 43110",(382) 680-0710,gallagherIV@myuni.db,Humanities
+Lillian,Lovelyn,Solomon,2344307330,28-Feb-99,"514 Tarkiln Hill Dr., Aiken, SC 29803",(394) 858-4536,solomonLI@myuni.db,Arts
+Elena,Nahia,Walsh,2344346121,25-Apr-96,"123 Bridge Drive, Dundalk, MD 21222",(592) 335-1997,walshEL@myuni.db,Agriculture
+Maya,Nikita,Monroe,2344168095,25-Oct-03,"35 Joy Ridge Street, Palmetto, FL 34221",(276) 632-8330,monroeMA@myuni.db,Engineering
+Kinsley,Peighton,Connolly,2344348696,25-May-01,"23 Schoolhouse Street, Summerville, SC 29483",(412) 459-3073,connollyKI@myuni.db,Science
+Claire,Rachael,Hawkins,2344597377,07-Apr-97,"8 Surrey Lane, Vernon Rockville, CT 06066",(691) 355-4557,hawkinsCL@myuni.db,Engineering
+Aaliyah,Shia,Middleton,2344254794,31-Jul-98,"19 Windfall St., Palatine, IL 60067",(632) 635-8047,middletonAA@myuni.db,Social Work
+Brooklyn,Tanner,Goldstein,2344330846,10-Feb-02,"15 S. Pineknoll Dr., Thibodaux, LA 70301",(449) 576-7114,goldsteinBR@myuni.db,Agriculture
+Aubrey,Therese,Watts,2344419443,08-Apr-03,"123 West Glendale Lane, Marion, NC 28752",(851) 481-1106,wattsAU@myuni.db,Arts
+Leilani,Whitlee,Johnston,2344885253,04-Dec-04,"83 Hanover Avenue, Old Bridge, NJ 08857",(673) 415-7727,johnstonLE@myuni.db,Humanities
+Valentina,Wynona,Weeks,2344598858,15-Apr-96,"256 North Jefferson Dr., Tupelo, MS 38801",(201) 360-4301,weeksVA@myuni.db,Engineering
+Madelyn,Ameya,Wilkerson,2344885446,12-Oct-00,"226 Penn Street, Mooresville, NC 28115",(201) 714-3125,wilkersonMA@myuni.db,Science
+Bella,Auriella,Barton,2344237460,21-Nov-03,"5 Wakehurst Court, Macomb, MI 48042",(926) 434-3972,bartonBE@myuni.db,Social Work
+Genesis,Ayden,Walton,2344284246,06-Nov-98,"175 South Ryan Road, Los Banos, CA 93635",(357) 529-1784,waltonGE@myuni.db,Agriculture
+Hailey,Brynnley,Hall,2344489077,07-Jun-95,"919 West Rock Creek Road, Billings, MT 59101",(571) 276-7120,hallHA@myuni.db,Agriculture
+Natalia,Devon,Ross,2344545508,27-Jul-96,"10 Williams Ave., Lincolnton, NC 28092",(856) 993-4192,rossNA@myuni.db,Social Work
+Caroline,Grettel,Woods,2344576469,28-Aug-99,"765 Augusta Rd., Bethel Park, PA 15102",(311) 964-4831,woodsCA@myuni.db,Arts
+Gabriella,Ishika,Mangum,2344486380,04-Aug-95,"7113 Richardson St., Mchenry, IL 60050",(249) 729-0409,mangumGA@myuni.db,Humanities
+Serenity,Janeth,Joseph,2344985534,11-Oct-02,"27 Marlborough Street, Coram, NY 11727",(784) 975-9575,josephSE@myuni.db,Science
+Cora,Jodi,Rosenthal,2344991169,24-Feb-01,"435 East William Street, Glen Cove, NY 11542",(322) 687-1662,rosenthalCO@myuni.db,Humanities
+Emery,Kayli,Bowden,2344808876,23-Mar-04,"77 N. White Drive, New Bern, NC 28560",(260) 555-2938,bowdenEM@myuni.db,Humanities
+Jade,Laurie,Underwood,2344741675,07-Feb-00,"324 Race Avenue, Circle Pines, MN 55014",(628) 378-1198,underwoodJA@myuni.db,Social Work
+Eva,Levy,Jones,2344435172,27-Jun-95,"9092 Edgefield Street, Chesapeake, VA 23320",(776) 623-2109,jonesEV@myuni.db,Arts
+Madeline,Maila,Baker,2344760367,05-Jul-97,"226 Silver Spear St., Davenport, IA 52804",(598) 498-3385,bakerMA@myuni.db,Humanities
+Rylee,Mallie,Merritt,2344364030,26-Feb-96,"16 W. Linda Ave., Bridgeton, NJ 08302",(611) 593-9447,merrittRY@myuni.db,Arts
+Peyton,Monae,Cross,2344407956,28-Mar-95,"977 San Pablo Court, Deerfield, IL 60015",(689) 258-3614,crossPE@myuni.db,Engineering
+Vivian,Niah,Cooper,2344428833,17-Jun-03,"998 East Smoky Hollow St., Joliet, IL 60435",(972) 607-2791,cooperVI@myuni.db,Social Work
+Raelynn,Novella,Holmes,2344462829,01-Jan-98,"4 Hilldale Drive, Poughkeepsie, NY 12601",(746) 531-4937,holmesRA@myuni.db,Engineering
+Samantha,Rheya,Sharpe,2344541424,01-Dec-95,"69 Dogwood Court, Lake Charles, LA 70605",(710) 662-0747,sharpeSA@myuni.db,Social Work
+Iris,Talulah,Morgan,2344121047,08-Feb-01,"9395 Carriage Dr., Midlothian, VA 23112",(803) 575-9641,morganIR@myuni.db,Agriculture
+Eloise,Winnifred,Hoyle,2344561834,14-Feb-00,"81 Plymouth Ave., Lawrence Township, NJ 08648",(741) 924-5803,hoyleEL@myuni.db,Humanities
+Eliza,Aleina,Allen,2344363901,29-Oct-04,"3 S. Beaver Ridge Street, Harlingen, TX 78552",(565) 764-2285,allenEL@myuni.db,Social Work
+Melody,Alysson,Rich,2344531200,04-Oct-98,"7565 Glenlake Drive, Southington, CT 06489",(644) 960-3137,richME@myuni.db,Architecture
+Parker,Anaiyah,Grant,2344387092,09-Jun-05,"425 Prairie Dr., East Stroudsburg, PA 18301",(700) 720-4693,grantPA@myuni.db,Agriculture
+Isabelle,Aryia,Proctor,2344612160,08-Dec-02,"69 Applegate St., Jacksonville, NC 28540",(790) 884-7657,proctorIS@myuni.db,Social Work
+Adalynn,Avelina,Diaz,2344762289,15-Sep-99,"55 S. New Drive, Derby, KS 67037",(628) 989-0615,diazAD@myuni.db,Engineering
+Eden,Bellami,Graham,2344238782,01-Apr-04,"15 East Lexington Lane, Saginaw, MI 48601",(741) 792-3790,grahamED@myuni.db,Social Work
+Mackenzie,Calani,Watkins,2344367797,29-May-95,"59 Depot Street, Powhatan, VA 23139",(712) 583-6074,watkinsMA@myuni.db,Arts
+Margaret,Cree,Hinton,2344523662,01-Apr-03,"48 Sunbeam St., Hartsville, SC 29550",(476) 570-2716,hintonMA@myuni.db,Architecture
+Charlie,Dinah,Marsh,2344688269,29-Jun-97,"988 Greystone St., Millington, TN 38053",(737) 334-5522,marshCH@myuni.db,Science
+Melanie,Ellora,Hewitt,2344317246,09-Aug-02,"161 Circle Ave., Colorado Springs, CO 80911",(299) 588-2520,hewittME@myuni.db,Engineering
+Elliana,Evianna,Branch,2344957536,14-Aug-03,"2 Surrey Dr., San Angelo, TX 76901",(486) 334-0262,branchEL@myuni.db,Humanities
+Mary,Gretel,Brien,2344613277,22-Mar-96,"866 Edgewood Lane, Howard Beach, NY 11414",(707) 498-1527,brienMA@myuni.db,Humanities
+Alina,Kamrynn,Case,2344313937,08-Jul-97,"454 S. Birch Hill St., Sylvania, OH 43560",(262) 246-3578,caseAL@myuni.db,Architecture
+Ximena,Keylin,Christensen,2344939451,28-Jan-96,"50 Birch Hill St., Danbury, CT 06810",(233) 408-5147,christensenXI@myuni.db,Arts
+Kaylee,Kyara,Parks,2344402271,29-Dec-01,"7221 Bank Rd., Buckeye, AZ 85326",(312) 442-8054,parksKA@myuni.db,Agriculture
+Summer,Lian,Hardin,2344819039,28-Nov-03,"7190 Cross Court, Frederick, MD 21701",(937) 761-6815,hardinSU@myuni.db,Agriculture
+Sloane,Mabry,Lucas,2344946132,02-Aug-01,"641 Myers Rd., Ringgold, GA 30736",(786) 572-5710,lucasSL@myuni.db,Architecture
+Arianna,Nalaya,Eason,2344955542,22-Jun-95,"5 Iroquois St., Deer Park, NY 11729",(699) 818-4137,easonAR@myuni.db,Humanities
+Reese,Normani,Davidson,2344911310,16-Jun-01,"469 South Valley View St., West Roxbury, MA 02132",(689) 640-9102,davidsonRE@myuni.db,Agriculture
+Sienna,Rikki,Whitehead,2344919261,22-Aug-05,"35 Windsor Dr., Lansdowne, PA 19050",(606) 809-5978,whiteheadSI@myuni.db,Arts
+River,Tyra,Rose,2344333500,20-Jul-03,"8751 Laurel Avenue, Cuyahoga Falls, OH 44221",(865) 386-9115,roseRI@myuni.db,Science
+Valerie,Adelie,Sparks,2344612362,23-Jul-05,"987 North Pheasant Street, Richardson, TX 75080",(953) 618-9872,sparksVA@myuni.db,Humanities
+Genevieve,Aleiah,Moore,2344897717,06-Apr-05,"8797 Helen Ave., West Chicago, IL 60185",(399) 758-0572,mooreGE@myuni.db,Social Work
+Valeria,Asees,Pearson,2344541129,26-Dec-04,"98 6th St., North Brunswick, NJ 08902",(954) 555-6486,pearsonVA@myuni.db,Humanities
+Kylie,Aysel,Rodgers,2344717211,12-Jun-00,"9140 North Hilltop Dr., Woonsocket, RI 02895",(594) 318-1770,rodgersKY@myuni.db,Science
+Amaya,Braylin,Graves,2344978509,09-Apr-03,"64 Thompson Court, Owatonna, MN 55060",(587) 377-1750,gravesAM@myuni.db,Humanities
+Ember,Caliana,Scarborough,2344639719,28-Jun-00,"50 Honey Creek Road, Port Huron, MI 48060",(267) 372-0605,scarboroughEM@myuni.db,Science
+Georgia,Choyce,Sutton,2344874051,21-Oct-05,"8041 North Middle River St., Ballston Spa, NY 12020",(675) 639-3624,suttonGE@myuni.db,Humanities
+Emerson,Fabiana,Sinclair,2344579536,19-Jul-95,"8295 Main Dr., Crawfordsville, IN 47933",(697) 677-7788,sinclairEM@myuni.db,Agriculture
+Faith,Hallee,Bowman,2344797181,19-Jun-00,"891 North Bowman Street, Mokena, IL 60448",(597) 496-7579,bowmanFA@myuni.db,Science
+Ariella,Ilani,Olsen,2344640727,26-Apr-00,"264 Dogwood St., Fullerton, CA 92831",(527) 764-2059,olsenAR@myuni.db,Engineering
+Andrea,Jentry,Love,2344787790,09-Feb-04,"42 Elmwood Street, Ellenwood, GA 30294",(477) 405-9944,loveAN@myuni.db,Agriculture
+June,Kalli,McLean,2344566497,17-Nov-99,"7313 Fairground Ave., Riverside, NJ 08075",(317) 205-7949,mcleanJU@myuni.db,Architecture
+Callie,Khaliyah,Christian,2344561908,20-Mar-03,"9 Somerset St., Norristown, PA 19401",(510) 692-7920,christianCA@myuni.db,Humanities
+Sage,Lillia,Lamb,2344703487,28-Feb-05,"732 Schoolhouse Ave., Hamtramck, MI 48212",(211) 980-1709,lambSA@myuni.db,Agriculture
+Anastasia,Mable,James,2344124579,09-Apr-98,"7388 2nd Dr., Medford, MA 02155",(656) 557-1192,jamesAN@myuni.db,Social Work
+Alani,Maevyn,Chandler,2344830506,24-Jul-03,"8650 Glenridge Ave., Menomonee Falls, WI 53051",(248) 484-1356,chandlerAL@myuni.db,Agriculture
+Rosalie,Mali,Stout,2344146779,16-May-96,"561 Trenton Dr., Eau Claire, WI 54701",(826) 617-5954,stoutRO@myuni.db,Architecture
+Brynlee,Rylah,Cowan,2344611010,05-May-01,"781 N. Bald Hill Drive, Maumee, OH 43537",(281) 492-6124,cowanBR@myuni.db,Architecture
+Ruth,Sayuri,Golden,2344281589,29-Jun-00,"9259 Hill St., Knoxville, TN 37918",(933) 722-3552,goldenRU@myuni.db,Engineering
+Gemma,Stefania,Bowling,2344577954,01-Dec-04,"7542 South Overlook Street, Mansfield, MA 02048",(866) 222-5896,bowlingGE@myuni.db,Engineering
+Oakley,Talya,Beasley,2344665498,06-Dec-00,"330 Windsor Dr., Stoughton, MA 02072",(410) 280-6223,beasleyOA@myuni.db,Architecture
+Arabella,Zaelynn,Clapp,2344859858,09-Apr-97,"640 Spring Dr., West Des Moines, IA 50265",(347) 260-7174,clappAR@myuni.db,Science
+Journee,Advika,Abrams,2344640388,16-May-04,"9120 East Woodside Road, Romeoville, IL 60446",(366) 566-2654,abramsJO@myuni.db,Humanities
+Blake,Alizae,Tilley,2344600237,18-Sep-97,"5 Santa Clara Street, Gettysburg, PA 17325",(354) 689-5698,tilleyBL@myuni.db,Architecture
+Aspen,Amilah,Morse,2344366278,04-Apr-02,"9229 South Walt Whitman Street, Rego Park, NY 11374",(567) 798-1663,morseAS@myuni.db,Humanities
+Selena,Anslee,Boykin,2344281135,07-Jul-05,"501 Arnold Street, Chattanooga, TN 37421",(206) 813-2876,boykinSE@myuni.db,Agriculture
+Morgan,Augusta,Sumner,2344725603,31-May-03,"8981 West Fairground Lane, Norwalk, CT 06851",(609) 696-9553,sumnerMO@myuni.db,Engineering
+Zuri,Cameryn,Cassidy,2344726569,27-Jul-02,"440 Saxton Street, Linden, NJ 07036",(211) 708-0702,cassidyZU@myuni.db,Arts
+Jordyn,Christian,Heath,2344374684,16-Feb-98,"24 St Paul Street, Windsor, CT 06095",(601) 299-5708,heathJO@myuni.db,Architecture
+Finley,Deisy,Blanchard,2344166003,28-Jul-99,"8993 Griffin Ave., Bowie, MD 20715",(358) 553-4389,blanchardFI@myuni.db,Agriculture
+Zara,Ellerie,McAllister,2344736568,10-Sep-00,"7114 Marsh Lane, Rocklin, CA 95677",(684) 543-2614,mcallisterZA@myuni.db,Agriculture
+Marley,Eshaal,McKenzie,2344206594,21-Aug-02,"1 SE. Virginia Ave., Freehold, NJ 07728",(332) 707-6986,mckenzieMA@myuni.db,Engineering
+Amira,Eulalia,Byrne,2344595685,31-Mar-04,"283 S. Longbranch Ave., Logansport, IN 46947",(645) 843-7147,byrneAM@myuni.db,Social Work
+London,Holley,Schroeder,2344346578,17-Jan-03,"1 Circle Street, Kingsport, TN 37660",(943) 344-4719,schroederLO@myuni.db,Science
+Elsie,Jasleen,Gross,2344784254,11-Sep-97,"47 Tarkiln Hill Rd., Cordova, TN 38016",(317) 408-6613,grossEL@myuni.db,Social Work
+Lila,Karson,Perkins,2344770061,21-Jun-95,"9006 Parker Street, Yorktown Heights, NY 10598",(765) 785-3381,perkinsLI@myuni.db,Science
+Diana,Layana,Robertson,2344242203,07-Dec-96,"878 S. 10th Dr., Thomasville, NC 27360",(440) 613-2693,robertsonDI@myuni.db,Social Work
+Nyla,Lilli,Palmer,2344489464,19-Jan-04,"411 New Saddle Lane, Satellite Beach, FL 32937",(708) 781-1318,palmerNY@myuni.db,Engineering
+Hope,Maricela,Brady,2344404404,12-Feb-96,"9997 E. Forest St., Orchard Park, NY 14127",(951) 208-9190,bradyHO@myuni.db,Architecture
+Kaia,Merci,Rowe,2344297169,05-Dec-96,"159 South Lexington Court, Brownsburg, IN 46112",(839) 557-8362,roweKA@myuni.db,Agriculture
+Alyssa,Miraya,Zhang,2344648468,08-Oct-96,"9340 Corona St., Centereach, NY 11720",(407) 510-8772,zhangAL@myuni.db,Social Work
+Ana,Peace,Hodge,2344853007,05-Nov-05,"100 Newbridge Street, Wayne, NJ 07470",(607) 603-5465,hodgeAN@myuni.db,Engineering
+Evangeline,Renae,Li,2344990804,22-Sep-96,"8222 Glendale Ave., North Fort Myers, FL 33917",(636) 249-9393,liEV@myuni.db,Agriculture
+Rachel,Roberta,Justice,2344767786,20-Mar-95,"7235 Ocean Court, Spring Hill, FL 34608",(664) 728-8449,justiceRA@myuni.db,Engineering
+Rowan,Shifra,Glass,2344506712,13-Sep-05,"9 Studebaker Ave., Maspeth, NY 11378",(797) 410-5214,glassRO@myuni.db,Architecture
+Elise,Silver,Willis,2344977899,08-Feb-97,"9022 Liberty Rd., Council Bluffs, IA 51501",(858) 616-6008,willisEL@myuni.db,Engineering
+Lilah,Tenzin,Hester,2344346279,13-Jan-05,"91 Adams St., Glen Ellyn, IL 60137",(438) 277-5807,hesterLI@myuni.db,Arts
+Phoebe,Una,Floyd,2344242575,30-Nov-95,"14 Grant St., Williamsport, PA 17701",(358) 397-7007,floydPH@myuni.db,Humanities
+Sydney,Weslyn,Fischer,2344200396,17-Aug-97,"46 Evergreen Street, Hampton, VA 23666",(841) 759-3753,fischerSY@myuni.db,Science
+Wren,Zahira,Norman,2344268678,11-Dec-97,"660 Hamilton Drive, Alpharetta, GA 30004",(795) 634-9789,normanWR@myuni.db,Arts
+Vanessa,Aaradhya,Chan,2344831497,24-Jun-99,"7016 Bedford Ave., Alliance, OH 44601",(750) 909-9019,chanVA@myuni.db,Agriculture
+Kayla,Adelin,Hunt,2344698827,07-Aug-03,"9461 Sutor Lane, Marcus Hook, PA 19061",(910) 392-7441,huntKA@myuni.db,Social Work
+Elaina,Alexi,Byrd,2344396297,19-Mar-00,"7101 John Street, Pueblo, CO 81001",(959) 668-1120,byrdEL@myuni.db,Architecture
+Brooke,Analee,Lane,2344662471,06-Feb-99,"161 Beech Ave., Snohomish, WA 98290",(396) 350-0579,laneBR@myuni.db,Humanities
+Miriam,Annastasia,Kaplan,2344943152,28-Jul-95,"184 Vermont St., Saint Joseph, MI 49085",(212) 496-6796,kaplanMI@myuni.db,Agriculture
+Adelaide,Azaleah,Heller,2344937508,07-Sep-95,"400 East Wild Horse Drive, Goodlettsville, TN 37072",(385) 524-7883,hellerAD@myuni.db,Science
+Jane,Brecklyn,Jennings,2344681857,02-Aug-02,"9244 Albany Ave., West New York, NJ 07093",(733) 934-5869,jenningsJA@myuni.db,Science
+Journey,Cing,Hanna,2344160711,20-Jan-02,"804 Lilac Ave., Tiffin, OH 44883",(213) 724-3831,hannaJO@myuni.db,Social Work
+Delaney,Daya,Locklear,2344989630,14-Mar-01,"47 Gartner Street, Snellville, GA 30039",(767) 286-4751,locklearDE@myuni.db,Social Work
+Mya,Emmarose,Holloway,2344421093,25-Apr-05,"7007 Colonial St., Rossville, GA 30741",(572) 827-1917,hollowayMY@myuni.db,Humanities
+Alivia,Evolet,Glover,2344219365,05-Jan-97,"660 Kirkland Ave., Saint Augustine, FL 32084",(716) 860-3108,gloverAL@myuni.db,Engineering
+Kailani,Ginger,Donnell,2344727665,03-Jun-00,"5 Mammoth Dr., Statesville, NC 28625",(321) 692-1925,donnellKA@myuni.db,Engineering
+Trinity,Hilda,Goldman,2344953292,10-Sep-98,"7901 Talbot Ave., Amityville, NY 11701",(897) 623-2508,goldmanTR@myuni.db,Architecture
+Tatum,Idy,McKenna,2344925483,06-Jul-97,"7215 W. Nicolls St., Duluth, GA 30096",(331) 993-2131,mckennaTA@myuni.db,Architecture
+Camille,Kaileen,Starr,2344981407,25-Aug-05,"9896 East Ave., Round Lake, IL 60073",(475) 503-9865,starrCA@myuni.db,Science
+Kali,Kalise,Stone,2344749403,13-Mar-95,"310 Arnold Dr., Bergenfield, NJ 07621",(512) 908-3132,stoneKA@myuni.db,Social Work
+Maggie,Lilibeth,McClure,2344718037,27-Nov-03,"884 South Hillside St., Westford, MA 01886",(537) 764-9009,mcclureMA@myuni.db,Architecture
+Tessa,Livvy,Watson,2344548244,28-Jun-05,"483 North San Pablo Street, Calhoun, GA 30701",(272) 980-5373,watsonTE@myuni.db,Social Work
+Adaline,Marcelina,Abbott,2344668018,06-Oct-02,"7854 Ocean Ave., Oxford, MS 38655",(370) 715-6435,abbottAD@myuni.db,Engineering
+Joanna,Naisha,Singer,2344568055,30-Oct-99,"93 Roehampton Ave., Plattsburgh, NY 12901",(688) 564-7714,singerJO@myuni.db,Agriculture
+Lena,Nilah,Farrell,2344951124,26-Dec-97,"9826 Glenholme Lane, Lacey, WA 98503",(402) 701-5616,farrellLE@myuni.db,Science
+Juliet,Rozlyn,Atkins,2344916658,23-May-98,"94 Cherry Hill Street, Chelmsford, MA 01824",(948) 716-1371,atkinsJU@myuni.db,Architecture
+Cataleya,Taleah,Sykes,2344928773,06-May-98,"8562 W. Sulphur Springs Dr., Pomona, CA 91768",(560) 975-2100,sykesCA@myuni.db,Humanities
+Leia,Zakiya,Reid,2344301005,05-Jul-04,"8043 Leatherwood Lane, Ridgewood, NJ 07450",(412) 208-3391,reidLE@myuni.db,Humanities
+Julianna,Adrielle,Finch,2344205600,29-Oct-02,"954 Proctor Rd., Ridgecrest, CA 93555",(923) 546-2764,finchJU@myuni.db,Science
+Talia,Aine,Hobbs,2344795080,08-Jul-05,"12 Myers Street, Carpentersville, IL 60110",(247) 471-0844,hobbsTA@myuni.db,Social Work
+Kendall,Amarii,Adkins,2344240727,02-Apr-00,"8014 Riverview Lane, Alexandria, VA 22304",(484) 751-9771,adkinsKE@myuni.db,Social Work
+Lia,Arha,Kinney,2344391433,13-Feb-03,"8975 Lake View Rd., Evans, GA 30809",(687) 779-2822,kinneyLI@myuni.db,Social Work
+Dahlia,Bayan,Whitaker,2344987855,13-Feb-99,"32 SW. Sutor Road, Brookfield, WI 53045",(631) 521-0886,whitakerDA@myuni.db,Engineering
+Camilla,Brelynn,Alexander,2344994850,20-Jul-04,"8156 W. Cardinal St., Clarksville, TN 37040",(568) 531-5928,alexanderCA@myuni.db,Science
+Jayla,Carmyn,Conner,2344147447,18-May-02,"7914 South Fremont Avenue, Woburn, MA 01801",(969) 856-2195,connerJA@myuni.db,Science
+Blair,Cristal,Waters,2344132014,29-Nov-95,"334 Thomas St., Commack, NY 11725",(513) 411-0933,watersBL@myuni.db,Engineering
+Hallie,Dia,Becker,2344625309,09-Dec-96,"345 Jennings Ave., Columbus, GA 31904",(726) 532-1989,beckerHA@myuni.db,Humanities
+Mckenna,Erielle,Rollins,2344248930,14-Nov-02,"9342 Bridge Drive, Norwood, MA 02062",(537) 608-2809,rollinsMC@myuni.db,Science
+Ophelia,Evelynne,Black,2344530454,11-Jun-99,"708 Court Ave., Groton, CT 06340",(670) 545-8458,blackOP@myuni.db,Humanities
+Alayah,Fae,Fox,2344534014,15-Aug-05,"1 Galvin St., Great Falls, MT 59404",(544) 300-2190,foxAL@myuni.db,Science
+Catherine,Haizlee,Hatcher,2344403618,26-Nov-01,"39 Laurel St., San Carlos, CA 94070",(759) 677-7333,hatcherCA@myuni.db,Architecture
+Nina,Kambri,Wu,2344807271,08-Jun-97,"396 County St., Morristown, NJ 07960",(211) 304-1156,wuNI@myuni.db,Agriculture
+Palmer,Khori,Lloyd,2344950074,29-Sep-04,"9376 W. High Ridge Avenue, Pembroke Pines, FL 33028",(716) 928-1210,lloydPA@myuni.db,Architecture
+Mckenzie,Leiana,Joyce,2344612917,06-Sep-98,"30 Academy Avenue, Oakland Gardens, NY 11364",(774) 755-3658,joyceMC@myuni.db,Agriculture
+Amari,Lynnox,Welch,2344770700,14-Feb-01,"7925 Sleepy Hollow Lane, Roy, UT 84067",(651) 985-3458,welchAM@myuni.db,Architecture
+Gracelynn,Mariya,Matthews,2344622118,01-Jan-97,"42 Crescent Rd., East Hartford, CT 06118",(426) 808-7089,matthewsGR@myuni.db,Arts
+Cali,Moon,Chappell,2344242511,23-Mar-01,"9524 Bald Hill St., Palm Coast, FL 32137",(610) 542-2212,chappellCA@myuni.db,Social Work
+Aniyah,Nailani,MacDonald,2344414385,07-Feb-05,"9669 Tanglewood Court, Ada, OK 74820",(821) 754-3769,macdonaldAN@myuni.db,Humanities
+Alexis,Phoenyx,Kane,2344805434,22-Jun-02,"218 Longbranch Drive, Hillsborough, NJ 08844",(383) 925-9108,kaneAL@myuni.db,Arts
+Gabriela,Raylan,Butler,2344572466,20-Mar-04,"7081 Washington Avenue, Yuba City, CA 95993",(860) 428-8101,butlerGA@myuni.db,Agriculture
+Amina,Safiyah,Pickett,2344164627,16-Apr-96,"980 Glen Creek Lane, Mahwah, NJ 07430",(569) 355-1981,pickettAM@myuni.db,Humanities
+Adelynn,Sevynn,Kennedy,2344211056,08-Oct-98,"8906 South St Margarets Lane, Morgantown, WV 26508",(551) 802-8653,kennedyAD@myuni.db,Architecture
+Reign,Sommer,Thornton,2344795845,21-Dec-04,"8393 Carriage St., Clayton, NC 27520",(652) 537-6617,thorntonRE@myuni.db,Science
+Dream,Tirzah,McNeill,2344374844,30-Jul-98,"379 Brown Dr., Defiance, OH 43512",(279) 391-5312,mcneillDR@myuni.db,Architecture
+Willa,Xaila,Weinstein,2344786248,24-May-99,"8636 S. Fawn Ave., Rock Hill, SC 29730",(412) 814-6817,weinsteinWI@myuni.db,Science
+Makayla,Yohana,Moss,2344160716,07-Dec-95,"24 Rosewood Lane, Elizabethtown, PA 17022",(848) 451-8725,mossMA@myuni.db,Engineering
+Elle,Allegra,Carlton,2344492407,16-Nov-01,"8300 State St., Grovetown, GA 30813",(915) 755-4278,carltonEL@myuni.db,Humanities
+Arielle,Anabia,Schultz,2344193356,04-Mar-02,"663 Boston Ave., Forney, TX 75126",(227) 274-3068,schultzAR@myuni.db,Social Work
+Giselle,Avielle,Nichols,2344187236,27-Jul-98,"7039 Kingston Ave., Brentwood, NY 11717",(784) 626-1117,nicholsGI@myuni.db,Humanities
+Ainsley,Clarice,Harvey,2344769845,30-Apr-00,"290 8th St., Phoenixville, PA 19460",(856) 240-4806,harveyAI@myuni.db,Science
+Charli,Dariela,Stevenson,2344263306,29-Oct-01,"853 Rockledge Street, Metairie, LA 70001",(967) 787-1891,stevensonCH@myuni.db,Engineering
+Makenna,Emari,Houston,2344895171,16-Oct-96,"948 Pierce Drive, Acworth, GA 30101",(240) 386-0458,houstonMA@myuni.db,Arts
+Danna,Everette,Dunn,2344575029,08-Nov-02,"15 Mill Pond Road, West Chester, PA 19380",(962) 761-0256,dunnDA@myuni.db,Arts
+Lilliana,Haevyn,West,2344535005,15-Jun-00,"8450 River Avenue, Crofton, MD 21114",(468) 283-2142,westLI@myuni.db,Science
+Samara,Indira,Barr,2344593807,06-Nov-04,"887 Lafayette Street, Mebane, NC 27302",(454) 577-5889,barrSA@myuni.db,Engineering
+Mabel,Jayline,Snyder,2344283048,15-Oct-03,"5 Manchester Ave., Billerica, MA 01821",(526) 490-5906,snyderMA@myuni.db,Engineering
+Fatima,Katalyna,Cain,2344375374,12-Nov-98,"45 SW. Fairway Dr., Nanuet, NY 10954",(392) 830-6493,cainFA@myuni.db,Engineering
+Esme,Kristin,Boswell,2344164464,10-Jun-03,"7344 Cedar Road, Ephrata, PA 17522",(672) 853-0468,boswellES@myuni.db,Arts
+Madeleine,Kylar,Pittman,2344126910,12-Aug-99,"619 St Louis Street, Rowlett, TX 75088",(233) 310-5227,pittmanMA@myuni.db,Engineering
+Camryn,Kymber,Weiner,2344482833,26-Aug-04,"498 Prospect Court, Lakeville, MN 55044",(391) 971-3246,weinerCA@myuni.db,Social Work
+Annalise,Lexy,Petersen,2344435628,25-Aug-96,"16 South Ridgeview Street, Hyde Park, MA 02136",(631) 765-2701,petersenAN@myuni.db,Architecture
+Serena,Liviana,Davis,2344319439,11-Jan-96,"552 Piper Dr., Benton Harbor, MI 49022",(450) 649-8484,davisSE@myuni.db,Arts
+Rylie,Malaiya,Coleman,2344426116,24-Dec-02,"644 South Indian Spring Road, Eugene, OR 97402",(525) 256-1982,colemanRY@myuni.db,Arts
+Laura,Mirabella,Terrell,2344949915,10-Feb-98,"7819 Ohio Dr., Wheeling, WV 26003",(247) 406-8922,terrellLA@myuni.db,Arts
+Frances,Neema,Burch,2344494562,16-Aug-99,"7366 Silver Spear Dr., Ankeny, IA 50023",(650) 349-1985,burchFR@myuni.db,Architecture
+Heidi,Passion,Parrott,2344777924,06-Jan-05,"8756 North Bedford St., Hopewell Junction, NY 12533",(426) 292-1018,parrottHE@myuni.db,Humanities
+Sabrina,Renesmae,Henry,2344401439,31-Oct-99,"9839 Greystone Lane, Merrimack, NH 03054",(300) 356-0473,henrySA@myuni.db,Agriculture
+Gwendolyn,Royce,Gray,2344356567,14-Sep-03,"73 Arcadia Rd., Battle Creek, MI 49015",(703) 308-3693,grayGW@myuni.db,Science
+Poppy,Shaelyn,Chang,2344666219,20-Nov-98,"96 Birchwood Dr., New Bedford, MA 02740",(762) 331-9027,changPO@myuni.db,Social Work
+Nylah,Tailynn,Siegel,2344806786,04-Jan-98,"517 East Creekside St., Altoona, PA 16601",(347) 377-1814,siegelNY@myuni.db,Engineering
+Maisie,Trisha,Garrett,2344613165,07-Feb-98,"77 William Court, Savannah, GA 31404",(909) 432-5107,garrettMA@myuni.db,Engineering
+Joy,Zakiyah,Neal,2344748919,30-Apr-01,"156 Thorne Dr., Chesterfield, VA 23832",(208) 378-5049,nealJO@myuni.db,Humanities
+Raven,Abbey,Shaffer,2344796785,06-Dec-95,"9368 NE. Wayne St., Londonderry, NH 03053",(205) 342-5797,shafferRA@myuni.db,Science
+Allie,Alanii,Choi,2344384277,30-Mar-01,"991 Pawnee Dr., Ocean Springs, MS 39564",(689) 978-8824,choiAL@myuni.db,Social Work
+Kate,Angeles,Carver,2344207782,27-Sep-98,"378 York Ave., Westbury, NY 11590",(482) 459-5507,carverKA@myuni.db,Science
+Alicia,Arisha,Shelton,2344226811,30-Apr-04,"66 2nd Ave., Stafford, VA 22554",(526) 991-5403,sheltonAL@myuni.db,Agriculture
+Addilyn,Callista,House,2344145293,06-May-02,"59 Trenton Dr., Orange Park, FL 32065",(455) 970-1620,houseAD@myuni.db,Social Work
+Malani,Codi,Lyons,2344266807,22-Oct-97,"411 Cactus St., Bradenton, FL 34203",(991) 708-9508,lyonsMA@myuni.db,Humanities
+Elisa,Debra,Moser,2344710447,19-Nov-01,"585 Glenholme St., Helena, MT 59601",(276) 600-2155,moserEL@myuni.db,Science
+Azalea,Dynver,Dickinson,2344622549,31-Dec-00,"752 Glenlake St., Westlake, OH 44145",(818) 298-9816,dickinsonAZ@myuni.db,Humanities
+Jordan,Eman,Dodson,2344583907,13-Apr-01,"62 Spruce Court, Lagrange, GA 30240",(521) 737-9221,dodsonJO@myuni.db,Social Work
+Viviana,Fay,Spencer,2344746140,07-Jan-05,"227 Fairground St., Endicott, NY 13760",(330) 340-1921,spencerVI@myuni.db,Architecture
+Skye,Hayzlee,Burgess,2344280194,15-May-03,"7 Woodside Street, Fairborn, OH 45324",(277) 372-1449,burgessSK@myuni.db,Engineering
+Makenzie,Jayanna,Liu,2344275896,27-Apr-03,"87 Selby Street, District Heights, MD 20747",(534) 530-4447,liuMA@myuni.db,Social Work
+Legacy,Kaily,Wong,2344360780,30-Nov-96,"64 Boston St., Park Forest, IL 60466",(930) 359-3946,wongLE@myuni.db,Arts
+Ariah,Kambrie,Blackburn,2344379045,04-Mar-00,"11 Madison Drive, Concord, NH 03301",(600) 447-5305,blackburnAR@myuni.db,Engineering
+Carmen,Karisma,McKay,2344861033,30-May-96,"522 Manor St., Allentown, PA 18102",(283) 506-6966,mckayCA@myuni.db,Agriculture
+Maren,Kaycie,Frazier,2344669849,07-Nov-98,"5 Livingston Street, Fernandina Beach, FL 32034",(666) 287-1099,frazierMA@myuni.db,Arts
+Felicity,Keisy,Braswell,2344903960,11-Aug-95,"995 Franklin Drive, Bowling Green, KY 42101",(617) 282-2397,braswellFE@myuni.db,Humanities
+Danielle,Khylee,Donovan,2344261906,07-Jan-97,"7212 Trenton Street, Fleming Island, FL 32003",(601) 381-3294,donovanDA@myuni.db,Architecture
+Paris,Leann,Barrett,2344845811,01-Sep-04,"506 E. Lookout Drive, Roswell, GA 30075",(394) 201-2473,barrettPA@myuni.db,Architecture
+Bianca,Leighla,Nance,2344242344,20-Apr-02,"33 Randall Mill Lane, New Philadelphia, OH 44663",(934) 313-6134,nanceBI@myuni.db,Arts
+Jazlyn,Leonor,Washington,2344476592,31-Oct-99,"83 Mulberry Ave., Sykesville, MD 21784",(377) 473-1801,washingtonJA@myuni.db,Agriculture
+Bristol,Maida,Rogers,2344704845,09-Sep-04,"775 South Roehampton Rd., Phoenix, AZ 85021",(835) 249-3662,rogersBR@myuni.db,Social Work
+Esmeralda,Mayar,McMahon,2344936785,20-Jul-97,"825 East Pineknoll Street, Rockville, MD 20850",(790) 590-8013,mcmahonES@myuni.db,Humanities
+Stephanie,Mehar,Miles,2344555543,13-Apr-02,"317 Jennings Street, Salem, MA 01970",(802) 211-2283,milesST@myuni.db,Agriculture
+Marlee,Micaiah,Kramer,2344821062,17-Nov-99,"935 West Blackburn Ave., Seattle, WA 98144",(595) 668-9444,kramerMA@myuni.db,Arts
+Hattie,Monique,Bowles,2344620267,21-Mar-02,"553 High Point Rd., Canyon Country, CA 91387",(455) 764-8564,bowlesHA@myuni.db,Engineering
+Rosie,Namaari,Brown,2344162040,16-Jul-99,"9245 Boston Street, Reidsville, NC 27320",(279) 575-7262,brownRO@myuni.db,Science
+Kenzie,Paislynn,Bolton,2344783135,29-Sep-04,"78 Sugar Ave., Grove City, OH 43123",(826) 366-2007,boltonKE@myuni.db,Humanities
+Holly,Rubie,Craven,2344159100,23-Jan-03,"312 Young Road, Fort Lee, NJ 07024",(651) 856-0289,cravenHO@myuni.db,Agriculture
+Sylvia,Silvana,Hendrix,2344746112,09-Jul-95,"7886 N. Creekside Drive, Holly Springs, NC 27540",(811) 941-0009,hendrixSY@myuni.db,Science
+Armani,Symone,Saunders,2344414583,02-Aug-96,"84 Saxon Court, Kansas City, MO 64151",(452) 608-5951,saundersAR@myuni.db,Architecture
+Keira,Valley,Lehman,2344277710,14-Jan-05,"23 Tunnel St., Dorchester, MA 02125",(789) 371-0677,lehmanKE@myuni.db,Science
+Jacqueline,Vittoria,Sherrill,2344322911,17-Sep-99,"267 Linda St., Winter Garden, FL 34787",(214) 276-5851,sherrillJA@myuni.db,Science
+Amanda,Aaria,Cash,2344359662,09-Jun-95,"9176 Atlantic Avenue, Oak Ridge, TN 37830",(533) 695-3471,cashAM@myuni.db,Engineering
+Emory,Addelynn,Sullivan,2344465779,24-Oct-99,"339 Selby Rd., Hickory, NC 28601",(313) 362-8332,sullivanEM@myuni.db,Engineering
+Haisley,Alayia,Mack,2344854004,26-May-96,"56 Oakland Drive, Worcester, MA 01604",(677) 407-7055,mackHA@myuni.db,Engineering
+Jessica,Amairani,Rice,2344541497,25-Jul-00,"165 Airport Street, Indian Trail, NC 28079",(983) 549-5024,riceJE@myuni.db,Arts
+Dorothy,Avi,Ayers,2344462358,17-Jun-02,"16 Maple St., Rochester, NY 14606",(616) 834-2904,ayersDO@myuni.db,Humanities
+Eve,Blue,Cherry,2344932703,01-May-99,"8893 Brandywine Ave., Syosset, NY 11791",(405) 304-9342,cherryEV@myuni.db,Architecture
+Averie,Brenley,Richmond,2344913292,17-Jan-96,"59 West Howard Lane, Newnan, GA 30263",(748) 981-7504,richmondAV@myuni.db,Engineering
+Lyra,Calli,York,2344365387,10-May-05,"143 Blackburn Rd., Prattville, AL 36067",(718) 985-3856,yorkLY@myuni.db,Engineering
+Angel,Chosen,Wiley,2344808595,24-Jun-00,"9752 East Colonial Ave., Hackettstown, NJ 07840",(861) 449-4140,wileyAN@myuni.db,Agriculture
+Jennifer,Darya,Harrington,2344832204,27-Jun-05,"637 Garden Rd., Fairfield, CT 06824",(608) 447-2925,harringtonJE@myuni.db,Architecture
+Ryan,Emberley,Reed,2344907054,23-Jun-04,"451 Market Lane, Jonesborough, TN 37659",(584) 655-2087,reedRY@myuni.db,Social Work
+Kyla,Essie,Nash,2344934279,14-Mar-04,"7810 South Lexington St., Medina, OH 44256",(842) 983-6235,nashKY@myuni.db,Science
+Meadow,Hinata,Kent,2344651551,10-Apr-02,"8220 Chestnut Street, Fairburn, GA 30213",(260) 408-8475,kentME@myuni.db,Social Work
+Kora,Jaelani,Holland,2344278114,29-Mar-05,"517 East Acacia Circle, Redford, MI 48239",(736) 405-8042,hollandKO@myuni.db,Science
+Kinley,Jo,Clements,2344688696,23-Aug-95,"143 Jennings Road, Germantown, MD 20874",(808) 974-1518,clementsKI@myuni.db,Agriculture
+Mae,Kay,Hawley,2344309579,19-Mar-95,"88 Brewery Rd., Osseo, MN 55311",(355) 785-5208,hawleyMA@myuni.db,Agriculture
+Aisha,Kynsleigh,Skinner,2344404194,17-Jul-03,"99 Tower St., Eden Prairie, MN 55347",(462) 218-0130,skinnerAI@myuni.db,Humanities
+Carolina,Lenny,Hamrick,2344757457,23-Aug-03,"243 Willow Street, Stratford, CT 06614",(401) 981-3755,hamrickCA@myuni.db,Agriculture
+Alma,Lyana,Winters,2344400598,20-Oct-03,"730 Brown St., Chatsworth, GA 30705",(225) 559-6680,wintersAL@myuni.db,Arts
+Bonnie,Nalayah,Dolan,2344880333,11-Nov-02,"8980 Elm St., Tewksbury, MA 01876",(305) 892-9123,dolanBO@myuni.db,Agriculture
+Briar,Nubia,Turner,2344677995,14-Apr-00,"348 Talbot St., Lenoir, NC 28645",(375) 690-9903,turnerBR@myuni.db,Agriculture
+Leona,Serayah,Beatty,2344132687,10-Oct-02,"80 Shipley Street, Long Branch, NJ 07740",(872) 702-6114,beattyLE@myuni.db,Agriculture
+Maddison,Shaindel,Douglas,2344717435,17-Jul-04,"304 SW. Wayne St., Port Washington, NY 11050",(312) 481-5793,douglasMA@myuni.db,Architecture
+Aviana,Spring,Hendricks,2344244330,15-Mar-97,"8798 Shub Farm Lane, Twin Falls, ID 83301",(513) 907-7278,hendricksAV@myuni.db,Science
+Alondra,Taylen,Mayer,2344126539,15-Jul-01,"9609 Studebaker St., Canton, GA 30114",(721) 699-3402,mayerAL@myuni.db,Science
+Monroe,Xitlaly,Cochran,2344856246,25-Dec-95,"657 Armstrong Dr., Riverdale, GA 30274",(447) 735-3716,cochranMO@myuni.db,Engineering
+Maliyah,Zayra,Reilly,2344233002,03-Jul-05,"789 Heritage Circle, Villa Park, IL 60181",(319) 663-1105,reillyMA@myuni.db,Architecture
+Madilynn,Zoee,Jensen,2344711359,14-Jun-00,"8812 Gartner Street, Glendale, AZ 85302",(688) 644-0953,jensenMA@myuni.db,Architecture
+Katie,Zori,Yates,2344981915,28-Oct-96,"9794 Lakewood Ave., Apple Valley, CA 92307",(558) 829-7126,yatesKA@myuni.db,Engineering
+Imani,Ahsoka,Haynes,2344929469,14-May-95,"79 Princess Ave., Chapel Hill, NC 27516",(949) 329-9068,haynesIM@myuni.db,Architecture
+Analia,Amilya,Harmon,2344863382,09-Mar-00,"24 Vale Lane, Cranford, NJ 07016",(746) 465-2700,harmonAN@myuni.db,Social Work
+Anya,Arleen,Dawson,2344360961,22-Jan-98,"582 Pearl Ave., Hicksville, NY 11801",(284) 435-5644,dawsonAN@myuni.db,Engineering
+Emmy,Aven,Barefoot,2344773904,14-Mar-96,"866 S. Thompson Ave., Middle Village, NY 11379",(340) 832-9856,barefootEM@myuni.db,Humanities
+Maryam,Avira,Pope,2344708017,21-Jun-01,"9 Lafayette Circle, Middleton, WI 53562",(363) 797-2456,popeMA@myuni.db,Social Work
+Mckinley,Charisma,Schwartz,2344319877,20-Nov-04,"41 Gonzales Drive, Gibsonia, PA 15044",(507) 368-3029,schwartzMC@myuni.db,Social Work
+Amalia,Crosby,Singleton,2344318725,28-Mar-98,"887 East Maiden Ave., Sewell, NJ 08080",(602) 861-3866,singletonAM@myuni.db,Architecture
+Opal,Delphine,Ballard,2344548598,13-Dec-02,"209 Fieldstone Street, Cranberry Twp, PA 16066",(429) 293-6374,ballardOP@myuni.db,Agriculture
+Clementine,Dru,Spivey,2344294533,29-Aug-01,"52 Nut Swamp Ave., Harrisonburg, VA 22801",(691) 453-4961,spiveyCL@myuni.db,Social Work
+Xiomara,Ellieana,Denton,2344621809,09-Feb-00,"80 Sunbeam Drive, Indianapolis, IN 46201",(941) 596-4876,dentonXI@myuni.db,Arts
+Elora,Evee,Huff,2344561800,11-Apr-00,"9 East New Saddle St., Havertown, PA 19083",(589) 473-8016,huffEL@myuni.db,Architecture
+Antonella,Eyla,Berger,2344277270,19-Sep-98,"7720 Peninsula St., Kent, OH 44240",(477) 266-5308,bergerAN@myuni.db,Engineering
+Hanna,Henlee,McCall,2344533193,13-Mar-01,"9958 Greenview Street, Shrewsbury, MA 01545",(977) 708-7537,mccallHA@myuni.db,Science
+Alanna,Ilaria,Pollard,2344775017,03-Mar-05,"22 Lexington St., Nashville, TN 37205",(450) 500-0052,pollardAL@myuni.db,Agriculture
+Itzel,Jeanne,Garcia,2344204347,01-Apr-00,"661 Oklahoma Road, Revere, MA 02151",(454) 623-8471,garciaIT@myuni.db,Social Work
+Jayleen,Josiane,Crane,2344702540,11-May-99,"8436 Glen Eagles Street, Holbrook, NY 11741",(209) 279-5385,craneJA@myuni.db,Architecture
+Beatrice,Kalista,Wolf,2344915008,24-Sep-95,"8022 New Drive, Solon, OH 44139",(438) 731-7212,wolfBE@myuni.db,Arts
+Dylan,Keagan,Dalton,2344592339,21-Nov-04,"71 Halifax St., Olympia, WA 98512",(996) 766-6774,daltonDY@myuni.db,Social Work
+Yaretzi,Khalessi,Currin,2344656002,20-Dec-99,"461 Ketch Harbour Street, Freeport, NY 11520",(789) 895-0790,currinYA@myuni.db,Social Work
+Sasha,Lelani,Stanton,2344897326,21-Jan-96,"9488 NE. St Louis Drive, Reading, MA 01867",(248) 216-2560,stantonSA@myuni.db,Arts
+Oaklyn,Lira,Carey,2344809158,27-Sep-00,"31 N. Lexington Ave., Mishawaka, IN 46544",(843) 737-9561,careyOA@myuni.db,Science
+Abby,Marilynn,Hess,2344704802,27-Feb-00,"30 Old Pacific Street, Malden, MA 02148",(834) 615-6932,hessAB@myuni.db,Engineering
+Lylah,Metzli,Robinson,2344343706,21-Apr-96,"9757 South Edgefield Street, Ames, IA 50010",(450) 546-8006,robinsonLY@myuni.db,Humanities
+Reyna,Paradise,Mills,2344850893,02-Oct-95,"25 Wilson St., New Haven, CT 06511",(347) 767-0292,millsRE@myuni.db,Social Work
+Michaela,Perri,McDonald,2344645029,29-Dec-96,"8647 Windfall Street, Hazleton, PA 18201",(736) 420-6317,mcdonaldMI@myuni.db,Architecture
+Fernanda,Rivers,Lanier,2344961965,22-May-95,"36 Hawthorne Drive, Buford, GA 30518",(440) 658-1359,lanierFE@myuni.db,Social Work
+Jenna,Sapphira,Harris,2344300225,24-Dec-02,"539 Leatherwood Lane, Irmo, SC 29063",(794) 360-2560,harrisJE@myuni.db,Architecture
+Miranda,Sila,Parsons,2344488651,13-Feb-95,"593 53rd Street, Williamsburg, VA 23185",(312) 326-0594,parsonsMI@myuni.db,Science
+Mina,Taylyn,Vaughn,2344403708,23-Jul-00,"3 Beaver Ridge Rd., Andover, MA 01810",(957) 517-9145,vaughnMI@myuni.db,Science
+Aleena,Viana,Banks,2344811506,30-Jul-99,"50 Bridge Rd., Waltham, MA 02453",(664) 767-1006,banksAL@myuni.db,Arts
+Frankie,Aaleyah,Oakley,2344571964,09-Jun-96,"827 Sleepy Hollow Ave., East Brunswick, NJ 08816",(796) 633-1872,oakleyFR@myuni.db,Science
+Kathryn,Acadia,Rubin,2344984283,27-Mar-03,"473 Marshall Ave., Auburn, NY 13021",(327) 727-2987,rubinKA@myuni.db,Social Work
+Nola,Alaysha,Maynard,2344675561,17-Aug-99,"68 N. Gulf St., Bellmore, NY 11710",(227) 248-0892,maynardNO@myuni.db,Architecture
+Lennox,Alyah,Livingston,2344446726,14-Nov-01,"716 N. Heritage Ave., Fort Lauderdale, FL 33308",(347) 250-3290,livingstonLE@myuni.db,Architecture
+Angelica,Ameliana,Lam,2344834083,30-Jun-00,"166 Ridge St., South Portland, ME 04106",(689) 684-4813,lamAN@myuni.db,Science
+Calliope,Anistyn,Thompson,2344697274,10-Sep-04,"675 Beechwood Ave., Woodbridge, VA 22191",(487) 267-6030,thompsonCA@myuni.db,Social Work
+Ivanna,Atalie,Creech,2344290857,01-Nov-01,"44 San Juan Ave., Waterloo, IA 50701",(355) 811-4170,creechIV@myuni.db,Arts
+Faye,Braya,Dillon,2344431856,19-Jan-05,"262 James Court, Quakertown, PA 18951",(235) 720-8687,dillonFA@myuni.db,Science
+Oakleigh,Bronwyn,Foster,2344812312,01-Dec-03,"7125 East Creekside St., Norcross, GA 30092",(911) 872-8497,fosterOA@myuni.db,Engineering
+Amirah,Cirilla,Roy,2344374891,22-Oct-96,"9 South Myrtle Dr., Elgin, IL 60120",(582) 820-1730,royAM@myuni.db,Science
+Siena,Cove,Barbour,2344845435,12-Dec-03,"495 Pendergast Street, Enterprise, AL 36330",(784) 323-6441,barbourSI@myuni.db,Agriculture
+Rhea,Deasia,Burke,2344396618,19-Mar-05,"63 Thorne Drive, Merrillville, IN 46410",(586) 549-6096,burkeRH@myuni.db,Engineering
+Malaysia,Embry,Ritchie,2344811354,22-Oct-00,"868 S. Manor Station St., Monroeville, PA 15146",(502) 379-6419,ritchieMA@myuni.db,Social Work
+Liberty,Hayat,Odom,2344934173,07-Nov-02,"83 Valley St., Grand Haven, MI 49417",(959) 290-0787,odomLI@myuni.db,Social Work
+Alejandra,Jasmyn,Pearce,2344692966,31-Oct-97,"35 Greystone Street, Raleigh, NC 27603",(364) 749-6589,pearceAL@myuni.db,Architecture
+Charley,Jemima,Rosenberg,2344404340,24-Apr-02,"6 West Columbia Drive, Chaska, MN 55318",(806) 268-3767,rosenbergCH@myuni.db,Humanities
+Priscilla,Juna,Connor,2344662098,15-Jan-00,"7694 East Laurel Dr., Greenfield, IN 46140",(727) 592-9563,connorPR@myuni.db,Agriculture
+Savanna,Kaniya,Cates,2344637611,04-Oct-99,"65 Acacia Ave., Mason, OH 45040",(913) 694-7569,catesSA@myuni.db,Social Work
+Christina,Kimberlynn,McIntosh,2344713208,19-Jul-95,"761 Stillwater St., Omaha, NE 68107",(359) 726-8392,mcintoshCH@myuni.db,Agriculture
+Macy,Lanae,Olson,2344720118,18-Oct-96,"44 Bayberry St., North Tonawanda, NY 14120",(942) 338-2399,olsonMA@myuni.db,Architecture
+Melina,Lynley,Cox,2344911138,20-Jul-02,"51 West Sleepy Hollow Street, Bonita Springs, FL 34135",(595) 459-9368,coxME@myuni.db,Agriculture
+Dallas,Mirai,Erickson,2344221646,05-Feb-95,"865 SW. Alderwood Dr., Victoria, TX 77904",(246) 877-8942,ericksonDA@myuni.db,Science
+Briana,Nayelli,Briggs,2344686712,26-Dec-98,"7004 Arcadia Lane, Emporia, KS 66801",(756) 412-8309,briggsBR@myuni.db,Architecture
+Lilian,Praise,Klein,2344964151,14-Sep-00,"5 Ashley St., Fishers, IN 46037",(379) 639-6883,kleinLI@myuni.db,Architecture
+Blaire,Rayanna,Goldberg,2344871999,17-Dec-98,"229 Ashley St., Duarte, CA 91010",(561) 564-9546,goldbergBL@myuni.db,Arts
+Louise,Skylin,Hinson,2344219128,18-Nov-00,"76 Riverside Dr., El Paso, TX 79930",(329) 592-0885,hinsonLO@myuni.db,Engineering
+Aleah,Swara,Weiss,2344362223,28-May-01,"315 W. Cobblestone Street, South Richmond Hill, NY 11419",(455) 258-8005,weissAL@myuni.db,Agriculture
+Flora,Tinslee,Pritchard,2344195839,16-Aug-01,"7764 SW. Bridle Ave., Stone Mountain, GA 30083",(271) 572-3564,pritchardFL@myuni.db,Science
+Kendra,Vita,Lassiter,2344256813,03-Jul-99,"9089 Westminster Drive, Wadsworth, OH 44281",(682) 408-1678,lassiterKE@myuni.db,Architecture
+Laney,Zaara,Massey,2344907751,16-Apr-97,"8474 Elmwood St., Corona, NY 11368",(666) 786-6614,masseyLA@myuni.db,Social Work
+Chaya,Aislin,Stark,2344774419,08-Jun-97,"80 S. Washington St., Beachwood, OH 44122",(487) 858-8584,starkCH@myuni.db,Architecture
+Milan,Alycia,Dunlap,2344936260,27-Jul-02,"8654 East Ave., Zion, IL 60099",(411) 766-2962,dunlapMI@myuni.db,Engineering
+Estella,Amairany,Humphrey,2344544860,26-Apr-02,"8710 Lexington Lane, Ottawa, IL 61350",(386) 668-2904,humphreyES@myuni.db,Engineering
+Yara,Annora,Horowitz,2344769604,12-Nov-95,"38 Lakeview Ave., Savage, MN 55378",(423) 618-3198,horowitzYA@myuni.db,Architecture
+Cheyenne,Avionna,Lutz,2344940086,25-May-98,"8577 Griffin Dr., Paramus, NJ 07652",(356) 566-3607,lutzCH@myuni.db,Arts
+Carly,Becky,Hoover,2344747893,13-Nov-00,"645 Argyle Ave., New Rochelle, NY 10801",(962) 937-6777,hooverCA@myuni.db,Humanities
+Kyra,Bloom,Kang,2344917308,10-Jun-99,"16 Arrowhead Rd., Conway, SC 29526",(309) 752-6224,kangKY@myuni.db,Science
+Malaya,Christa,Ellington,2344153749,14-May-97,"5 Johnson Street, Sacramento, CA 95820",(269) 665-8745,ellingtonMA@myuni.db,Social Work
+Lina,Daila,Lynn,2344148632,03-Nov-05,"104 Edgemont Drive, Atwater, CA 95301",(209) 349-0885,lynnLI@myuni.db,Science
+Jayda,Eleina,Albright,2344498744,15-Nov-96,"43 W. 3rd Dr., Panama City, FL 32404",(636) 985-5751,albrightJA@myuni.db,Agriculture
+Eileen,Ellah,Alston,2344221711,03-Feb-99,"7702 South Woodside Ave., Quincy, MA 02169",(798) 205-7916,alstonEI@myuni.db,Arts
+Karina,Estefani,Burnette,2344919798,12-Feb-98,"62 Ashley Street, Fort Dodge, IA 50501",(257) 715-1856,burnetteKA@myuni.db,Architecture
+Aliza,Hala,Neal,2344339626,11-Sep-99,"957 Glen Ridge Ave., Gurnee, IL 60031",(550) 848-0219,nealAL@myuni.db,Architecture
+Kori,Ilianna,Morris,2344762882,05-Apr-00,"52 East Bellevue Ave., Ocoee, FL 34761",(805) 446-6935,morrisKO@myuni.db,Science
+Lara,Inari,Callahan,2344503848,28-Apr-00,"8393 S. Durham Street, Potomac, MD 20854",(754) 415-9343,callahanLA@myuni.db,Social Work
+Jada,Jai,Conway,2344636740,04-Jul-02,"9109 Heritage St., Massapequa Park, NY 11762",(991) 911-1202,conwayJA@myuni.db,Social Work
+Amani,Janette,Savage,2344864967,23-Dec-96,"2 Taylor St., Clifton, NJ 07011",(934) 668-4057,savageAM@myuni.db,Science
+Treasure,Jori,Henson,2344932850,03-Aug-97,"747 Glenlake Drive, Green Cove Springs, FL 32043",(409) 383-3562,hensonTR@myuni.db,Science
+Marleigh,Justina,Wang,2344652582,24-Mar-99,"65 Wakehurst Lane, Bolingbrook, IL 60440",(644) 382-3811,wangMA@myuni.db,Arts
+Kassidy,Khole,Ellis,2344735566,05-Jul-96,"974 West St Paul Avenue, Meriden, CT 06450",(200) 234-3480,ellisKA@myuni.db,Agriculture
+Monica,Kim,Pierce,2344156834,18-Feb-01,"7594 Sherwood Street, Jupiter, FL 33458",(800) 330-8111,pierceMO@myuni.db,Architecture
+Zahra,Layloni,Woodward,2344412146,29-Jul-95,"7207 Snake Hill Dr., Southfield, MI 48076",(414) 759-2830,woodwardZA@myuni.db,Agriculture
+Hadassah,Lilliann,Godfrey,2344921093,29-Aug-97,"623 S. Pilgrim Court, Suffolk, VA 23434",(825) 756-2479,godfreyHA@myuni.db,Architecture
+Allyson,Marcy,Langston,2344259472,15-Apr-04,"174 E. Constitution Street, Hoffman Estates, IL 60169",(502) 548-8469,langstonAL@myuni.db,Arts
+Maxine,Mecca,Eaton,2344595401,01-Apr-03,"720 North Canterbury Dr., Delray Beach, FL 33445",(419) 363-6168,eatonMA@myuni.db,Agriculture
+Khaleesi,Monet,Lowe,2344647374,09-Jul-05,"424 Shady St., Fair Lawn, NJ 07410",(715) 823-0235,loweKH@myuni.db,Science
+Penny,Munira,Fuller,2344832026,19-Apr-04,"5 Colonial Ave., Greenville, NC 27834",(380) 324-6834,fullerPE@myuni.db,Arts
+Marilyn,Nadya,Simmons,2344188044,28-Dec-00,"216 Clark Street, Mocksville, NC 27028",(834) 719-9148,simmonsMA@myuni.db,Architecture
+Freyja,Odelia,Knight,2344941821,15-Jun-98,"48 Sunbeam Street, Manitowoc, WI 54220",(531) 520-8704,knightFR@myuni.db,Engineering
+Kenna,Owen,Gold,2344793916,13-Oct-00,"7896 Victoria Ave., Port Richey, FL 34668",(656) 594-4894,goldKE@myuni.db,Agriculture
+Florence,Quetzalli,Hensley,2344971208,22-Oct-97,"9 Princess Court, Flint, MI 48504",(720) 940-5857,hensleyFL@myuni.db,Engineering
+Melany,Reema,French,2344367496,10-Apr-02,"172 Roehampton Drive, Ossining, NY 10562",(247) 269-2350,frenchME@myuni.db,Architecture
+Sky,Rosetta,Hughes,2344989713,15-Feb-05,"455 Broad St., Hackensack, NJ 07601",(315) 350-1608,hughesSK@myuni.db,Engineering
+Noemi,Sakina,Pate,2344259154,15-Feb-98,"114 Pierce Rd., West Bend, WI 53095",(901) 756-1333,pateNO@myuni.db,Engineering
+Selene,Starla,Burnett,2344794843,05-Aug-95,"9746 Tailwater Court, Wethersfield, CT 06109",(376) 931-8107,burnettSE@myuni.db,Arts
+Alaiya,Tayanna,Francis,2344270740,11-Jan-05,"4 Pheasant Ave., Saint Petersburg, FL 33702",(567) 710-7086,francisAL@myuni.db,Humanities
+Fallon,Tiaraoluwa,Horn,2344573244,21-Apr-02,"32 Cedar Swamp Dr., Dracut, MA 01826",(874) 879-8295,hornFA@myuni.db,Architecture
+Rayna,Westlyn,Forrest,2344722467,09-Dec-97,"217 E. Summerhouse Street, Sun City, AZ 85351",(999) 845-4331,forrestRA@myuni.db,Arts
+Halle,Yides,Levin,2344776115,13-Jul-05,"9721 Helen Street, Scarsdale, NY 10583",(248) 379-3303,levinHA@myuni.db,Science
+Joelle,Zohemy,Durham,2344494918,04-Oct-04,"7085 Cooper St., Myrtle Beach, SC 29577",(361) 485-3716,durhamJO@myuni.db,Arts
+Roselyn,Aarvi,Guthrie,2344159385,17-Mar-03,"65 SW. Lower River Street, Sioux City, IA 51106",(458) 459-3947,guthrieRO@myuni.db,Arts
+Jolie,Alitzel,Freedman,2344284616,16-Oct-00,"113 Rockcrest Road, East Orange, NJ 07017",(678) 837-7438,freedmanJO@myuni.db,Agriculture
+Elodie,Amariyah,Wiggins,2344833692,16-Jun-04,"8429 Evergreen Ave., Littleton, CO 80123",(515) 350-3076,wigginsEL@myuni.db,Architecture
+Nala,Anamaria,Best,2344981190,24-Feb-02,"3 Nicolls St., Salisbury, MD 21801",(989) 475-0609,bestNA@myuni.db,Engineering
+Justice,Aurielle,Crawford,2344377268,24-Dec-00,"56 West Country St., Fairport, NY 14450",(559) 870-0123,crawfordJU@myuni.db,Science
+Novah,Bellamie,Drake,2344520890,24-Jan-99,"50 Devon Avenue, Falls Church, VA 22041",(268) 413-0922,drakeNO@myuni.db,Agriculture
+Jenesis,Brookelynn,Curtis,2344478513,06-Aug-03,"440 East Essex Street, Oakland, CA 94603",(659) 753-9124,curtisJE@myuni.db,Architecture
+Hadlee,Christy,Walter,2344804114,30-Jul-95,"7 Arnold St., Severna Park, MD 21146",(765) 249-1207,walterHA@myuni.db,Social Work
+Waverly,Corinna,Jenkins,2344882140,25-May-98,"314 Elm St., Pearl, MS 39208",(985) 560-7292,jenkinsWA@myuni.db,Agriculture
+Pearl,Ellyanna,Hood,2344155259,21-Aug-96,"98 Golden Star Drive, Westport, CT 06880",(496) 640-0437,hoodPE@myuni.db,Arts
+Katelyn,Emmaleigh,Jiang,2344560918,23-Jan-00,"9886 St Paul Road, Media, PA 19063",(594) 564-6557,jiangKA@myuni.db,Science
+Azariah,Esmerelda,Johnson,2344552992,10-Apr-05,"879 Linden Street, Dubuque, IA 52001",(439) 719-5560,johnsonAZ@myuni.db,Science
+Giana,Ginny,Craig,2344758120,09-May-99,"7066 Marsh Street, Aberdeen, SD 57401",(848) 963-5844,craigGI@myuni.db,Agriculture
+Cadence,Ina,McIntyre,2344980229,02-Nov-04,"8374 N. East Lane, Port Jefferson Station, NY 11776",(581) 332-8195,mcintyreCA@myuni.db,Humanities
+Ila,Jaiden,Brantley,2344644542,08-Jul-97,"404 Bishop St., North Augusta, SC 29841",(440) 532-9272,brantleyIL@myuni.db,Arts
+Jovie,Javeah,Kelley,2344398461,28-Dec-97,"79 State St., Manchester Township, NJ 08759",(323) 721-5656,kelleyJO@myuni.db,Arts
+Bellamy,Kaior,Smith,2344814533,10-Jul-05,"8967 Westport Street, Milledgeville, GA 31061",(798) 227-8674,smithBE@myuni.db,Social Work
+Kara,Kamyah,Wall,2344493888,21-Jun-95,"98 Circle Avenue, Cleveland, TN 37312",(891) 312-9191,wallKA@myuni.db,Science
+Jianna,Katherin,Quinn,2344231439,28-Jul-04,"918 Tallwood St., Akron, OH 44312",(416) 850-9869,quinnJI@myuni.db,Engineering
+Alena,Lennix,Hicks,2344634978,04-Aug-01,"57 Manor Station Lane, West Islip, NY 11795",(546) 227-9693,hicksAL@myuni.db,Agriculture
+Elliot,Maeven,Garrison,2344763704,15-Feb-05,"7311 N. Thorne Ave., Elizabeth, NJ 07202",(999) 729-3947,garrisonEL@myuni.db,Engineering
+Ashlynn,Malorie,Dickerson,2344673711,04-Sep-95,"2 Purple Finch St., Middle River, MD 21220",(423) 435-8838,dickersonAS@myuni.db,Arts
+Emmalyn,Medina,Waller,2344379877,28-Mar-95,"92 Jones Dr., Kings Mountain, NC 28086",(411) 487-2494,wallerEM@myuni.db,Architecture
+Marceline,Novi,Carter,2344611297,27-Aug-99,"42 North Swanson St., Norwich, CT 06360",(207) 716-2806,carterMA@myuni.db,Agriculture
+Kiana,Ora,Katz,2344401379,18-Oct-95,"617 Jones Street, Bangor, ME 04401",(964) 553-7789,katzKI@myuni.db,Arts
+Aliya,Raniya,Hull,2344857604,30-Sep-98,"734 Chapel Court, Hastings, MN 55033",(580) 804-1313,hullAL@myuni.db,Architecture
+Harlee,Remie,Brock,2344288730,27-Mar-96,"607 Mill Dr., Farmingdale, NY 11735",(228) 703-0470,brockHA@myuni.db,Architecture
+Lillie,Ryker,McMillan,2344124778,07-Sep-04,"8741 Kingston Avenue, Tucson, AZ 85718",(691) 815-9637,mcmillanLI@myuni.db,Agriculture
+Ensley,Seraphine,Hu,2344456914,03-Jan-99,"356 E. Ivy Drive, Caldwell, NJ 07006",(655) 446-6238,huEN@myuni.db,Arts
+Kallie,Suhana,McKee,2344904354,10-Oct-04,"6 North Marshall Drive, Lorton, VA 22079",(386) 738-4895,mckeeKA@myuni.db,Agriculture
+Berkley,Taniya,Sims,2344434381,03-Nov-05,"83 Brickell St., Jacksonville Beach, FL 32250",(694) 730-1720,simsBE@myuni.db,Science
+Jaylani,Tennessee,Henderson,2344165619,02-May-96,"8663 Sussex Lane, Tuckerton, NJ 08087",(466) 495-6860,hendersonJA@myuni.db,Humanities
+Aubrie,Tyanna,Rao,2344895128,09-Jun-01,"12 Cedarwood Avenue, Pittsfield, MA 01201",(622) 676-7021,raoAU@myuni.db,Architecture
+Paulina,Yari,Bray,2344250219,07-Oct-98,"635 Mayflower Court, Midland, MI 48640",(201) 691-6818,brayPA@myuni.db,Agriculture
+Aya,Adamaris,Ford,2344246184,10-Dec-95,"9865 10th St., Drexel Hill, PA 19026",(224) 578-7647,fordAY@myuni.db,Social Work
+Milana,Alany,Blum,2344672116,12-Aug-03,"15 Surrey St., Macungie, PA 18062",(210) 859-2708,blumMI@myuni.db,Social Work
+Iyla,Amaiyah,Kenney,2344543419,25-Dec-95,"375 Linda St., Land O Lakes, FL 34639",(476) 711-0407,kenneyIY@myuni.db,Arts
+Hana,Aviella,Gordon,2344337859,10-Sep-04,"9195 Clinton Rd., Mableton, GA 30126",(465) 851-7706,gordonHA@myuni.db,Humanities
+Andi,Beautiful,Blair,2344763560,29-Nov-01,"571 York Street, Grayslake, IL 60030",(713) 305-1030,blairAN@myuni.db,Humanities
+Milena,Carsen,Kemp,2344840186,22-Aug-98,"9229 Old York Court, Alabaster, AL 35007",(719) 299-6141,kempMI@myuni.db,Arts
+Saoirse,Dayra,Hutchinson,2344777379,09-Apr-98,"86 Boston Ave., Chelsea, MA 02150",(896) 692-8085,hutchinsonSA@myuni.db,Social Work
+Drew,Emerly,Brennan,2344425132,14-Jun-96,"41 E. Thorne Road, Sebastian, FL 32958",(979) 275-9758,brennanDR@myuni.db,Engineering
+Hunter,Faiza,Little,2344270801,16-Dec-02,"8488 Proctor Lane, North Bergen, NJ 07047",(869) 924-5998,littleHU@myuni.db,Humanities
+Anais,Georgette,Gill,2344412777,07-Jun-01,"815 Winchester Street, Braintree, MA 02184",(440) 642-5118,gillAN@myuni.db,Arts
+Paula,Halley,Keller,2344667226,29-Aug-96,"934 West Brookside St., Easton, PA 18042",(249) 207-0302,kellerPA@myuni.db,Architecture
+Teresa,Hazeleigh,McConnell,2344233543,24-Feb-05,"72 Highland St., Oak Park, MI 48237",(222) 286-9766,mcconnellTE@myuni.db,Science
+Avah,Itzae,Sawyer,2344605306,02-Aug-99,"7352 Poplar Avenue, Kennesaw, GA 30144",(237) 925-6528,sawyerAV@myuni.db,Agriculture
+Greta,Ivyanna,Coates,2344444331,16-Sep-05,"7239 Littleton St., Columbia, MD 21044",(412) 517-5346,coatesGR@myuni.db,Engineering
+Scout,Jaziyah,Lindsay,2344260892,30-Mar-00,"8776 North 4th St., Mc Lean, VA 22101",(291) 485-5026,lindsaySC@myuni.db,Social Work
+Amelie,Jensyn,Gonzalez,2344309446,07-Dec-99,"50 Wintergreen Lane, Marietta, GA 30008",(405) 622-1234,gonzalezAM@myuni.db,Architecture
+Chanel,Joanie,English,2344149279,24-Oct-03,"18 Saxon Court, Pewaukee, WI 53072",(364) 873-9816,englishCH@myuni.db,Social Work
+Rebekah,Jru,Duke,2344152237,18-Nov-00,"7307 Arrowhead St., Douglasville, GA 30134",(416) 398-9177,dukeRE@myuni.db,Agriculture
+Ellison,Kambree,Webb,2344322231,15-Jan-97,"9114 Livingston Ave., Saint Louis, MO 63109",(578) 208-8062,webbEL@myuni.db,Engineering
+Kaydence,Kylin,Baldwin,2344724303,04-Oct-00,"32 East Southampton Lane, Scotch Plains, NJ 07076",(373) 593-8008,baldwinKA@myuni.db,Social Work
+Royal,Landri,Fletcher,2344686040,25-Aug-02,"285 S. Fairway Lane, Burlington, MA 01803",(906) 264-2681,fletcherRO@myuni.db,Architecture
+August,Lizette,Boyd,2344478157,25-May-95,"237 Wrangler Drive, Centreville, VA 20120",(548) 940-9415,boydAU@myuni.db,Engineering
+Vienna,Makenzi,Hirsch,2344334056,20-Apr-02,"75 Cedar Drive, Coatesville, PA 19320",(756) 984-5826,hirschVI@myuni.db,Humanities
+Anika,Milo,Currie,2344452868,03-Oct-00,"188 E. Bridge St., Dekalb, IL 60115",(289) 562-1915,currieAN@myuni.db,Social Work
+Kelly,Nari,Weber,2344363058,28-Jan-97,"349 Homestead St., Flowery Branch, GA 30542",(810) 695-7250,weberKE@myuni.db,Social Work
+Aubriella,Nawal,Honeycutt,2344278143,12-Jul-04,"7461 Glenridge Court, Jenison, MI 49428",(876) 908-2018,honeycuttAU@myuni.db,Social Work
+Ryann,Oakland,Manning,2344905940,05-Sep-04,"101 Leatherwood Ave., Miami Gardens, FL 33056",(757) 710-6046,manningRY@myuni.db,Engineering
+Gwen,Rawlings,Riley,2344140119,20-Sep-02,"385 Squaw Creek Drive, Muskegon, MI 49441",(811) 818-4651,rileyGW@myuni.db,Social Work
+Noor,Remmi,Swanson,2344211394,21-Apr-96,"94 N. Glen Creek Rd., Naples, FL 34116",(533) 684-3531,swansonNO@myuni.db,Science
+Marianna,Saydee,Huffman,2344292464,11-Jun-99,"98 Piper St., Suitland, MD 20746",(573) 593-0865,huffmanMA@myuni.db,Social Work
+Annika,Scotlynn,Gibson,2344577097,02-Jun-98,"155 Bedford Drive, Hempstead, NY 11550",(454) 438-4253,gibsonAN@myuni.db,Engineering
+Vada,Sena,Wrenn,2344886190,15-Oct-98,"847 East Parker Street, Warwick, RI 02886",(683) 937-9833,wrennVA@myuni.db,Humanities
+Artemis,Spirit,Green,2344551163,22-Mar-97,"741 N. Oak Valley Ave., Herndon, VA 20170",(631) 987-2301,greenAR@myuni.db,Social Work
+Laylah,Teagen,Hayes,2344847128,27-Nov-03,"690 Queen St., Park Ridge, IL 60068",(792) 423-6542,hayesLA@myuni.db,Architecture
+Elyse,Zemira,Koch,2344289945,25-May-96,"70 Arlington Road, Union, NJ 07083",(303) 893-1694,kochEL@myuni.db,Engineering
+Veda,Aadhira,Harrell,2344588219,05-Feb-98,"705 E. Henry Smith Ave., Banning, CA 92220",(228) 367-1653,harrellVE@myuni.db,Humanities
+Simone,Aamira,McGuire,2344508871,04-Feb-01,"7432 East William Drive, Upper Darby, PA 19082",(570) 666-9139,mcguireSI@myuni.db,Arts
+Alisson,Addeline,Stephenson,2344687140,22-Jun-03,"9370 W. Military Drive, Mount Prospect, IL 60056",(287) 523-5812,stephensonAL@myuni.db,Architecture
+Ocean,Alaynah,Baxter,2344523878,14-Oct-96,"16 Jones Road, Greensboro, NC 27405",(901) 420-8698,baxterOC@myuni.db,Engineering
+Lilianna,Alorah,Summers,2344808025,02-May-03,"504 County Lane, Spartanburg, SC 29301",(687) 472-5726,summersLI@myuni.db,Architecture
+Avalynn,Anny,Nixon,2344206633,21-Dec-00,"89 Brook St., Madisonville, KY 42431",(802) 435-8968,nixonAV@myuni.db,Architecture
+Goldie,Arley,Kelly,2344952870,18-Mar-03,"7744 Addison St., North Haven, CT 06473",(810) 548-5378,kellyGO@myuni.db,Social Work
+Emmeline,Armanii,Cobb,2344768416,11-Nov-04,"99 E. Shirley Ave., Jeffersonville, IN 47130",(306) 601-0225,cobbEM@myuni.db,Agriculture
+Raina,Avana,Bruce,2344877841,21-Aug-02,"9890 Arrowhead Ave., North Miami Beach, FL 33160",(259) 839-0440,bruceRA@myuni.db,Social Work
+Chandler,Brook,Newton,2344667463,25-Mar-05,"325 South Rd., Conyers, GA 30012",(465) 635-2039,newtonCH@myuni.db,Science
+Adalee,Calleigh,Sanchez,2344522722,08-May-03,"8818 Holly Ave., Tuscaloosa, AL 35405",(280) 424-5084,sanchezAD@myuni.db,Architecture
+Violeta,December,Silverman,2344940553,18-Jan-95,"207 Brewery Street, Enfield, CT 06082",(690) 672-1550,silvermanVI@myuni.db,Arts
+Lauryn,Denym,Richardson,2344977852,27-Jan-05,"87 Catherine Ave., Oak Forest, IL 60452",(248) 332-7991,richardsonLA@myuni.db,Arts
+Birdie,Ellinor,Gay,2344654989,16-Aug-02,"8511 Park Ave., Longwood, FL 32779",(806) 507-3897,gayBI@myuni.db,Humanities
+Lexie,Emersynn,Chase,2344372644,16-Jan-02,"1 High Court, Waterbury, CT 06705",(592) 598-4140,chaseLE@myuni.db,Agriculture
+Lilyana,Fia,Kern,2344154226,10-Jul-03,"744 West Pineknoll Street, Milwaukee, WI 53204",(467) 450-7174,kernLI@myuni.db,Engineering
+Shay,Griselda,Scott,2344994283,02-Sep-04,"80 Augusta Street, Northbrook, IL 60062",(620) 674-9241,scottSH@myuni.db,Agriculture
+Natasha,Jacklynn,Bradley,2344693552,09-Jun-97,"4 Sussex St., Hartselle, AL 35640",(666) 821-5317,bradleyNA@myuni.db,Agriculture
+Zaria,Kamira,Yang,2344103181,06-Oct-95,"60 Chapel Lane, Brighton, MA 02135",(352) 482-7920,yangZA@myuni.db,Humanities
+Deborah,Laelynn,Bunn,2344509077,15-Feb-97,"8 Tailwater Circle, Rockville Centre, NY 11570",(865) 913-6369,bunnDE@myuni.db,Arts
+Barbara,Lilya,Link,2344877038,16-May-01,"9872 Cherry St., Euless, TX 76039",(432) 511-0220,linkBA@myuni.db,Agriculture
+Emerald,Mahi,Nguyen,2344794718,09-Jan-97,"516 East Valley View St., Palm City, FL 34990",(229) 611-0640,nguyenEM@myuni.db,Arts
+Julissa,Maison,Stephens,2344781178,12-Mar-05,"832 Henry St., Cheshire, CT 06410",(267) 828-4011,stephensJU@myuni.db,Science
+Austyn,Mandy,Horne,2344579695,26-Jul-99,"8650 6th St., Brookline, MA 02446",(698) 262-5742,horneAU@myuni.db,Arts
+Nyomi,Melrose,Burton,2344941427,02-Sep-05,"4 Pheasant St., Granger, IN 46530",(835) 760-3513,burtonNY@myuni.db,Architecture
+Kynlee,Mirna,Berry,2344926819,22-Apr-99,"7281 N. Valley View Street, Windermere, FL 34786",(453) 961-3419,berryKY@myuni.db,Architecture
+Luella,Nusaybah,Knowles,2344975738,18-Sep-04,"381 South Nichols Street, Elk River, MN 55330",(289) 874-4289,knowlesLU@myuni.db,Arts
+Addilynn,Parklynn,Freeman,2344256747,05-May-99,"146 East Bridgeton Ave., Bridgewater, NJ 08807",(999) 691-1400,freemanAD@myuni.db,Engineering
+Samira,Roux,Hernandez,2344823713,24-Jun-98,"152 North Cedar Dr., San Pablo, CA 94806",(701) 490-1901,hernandezSA@myuni.db,Agriculture
+Madalyn,Saya,Roach,2344552336,23-Apr-98,"162 Shirley Street, Nicholasville, KY 40356",(673) 422-8834,roachMA@myuni.db,Humanities
+Stormi,Sylvi,Hardison,2344494056,08-Jul-98,"77 Hilltop St., North Kingstown, RI 02852",(950) 623-9763,hardisonST@myuni.db,Engineering
+Ayleen,Vaida,Caldwell,2344867070,19-Apr-03,"531 North 4th St., Monroe, NY 10950",(967) 696-8963,caldwellAY@myuni.db,Humanities
+Brylee,Wanda,Mann,2344327999,30-Oct-01,"591 10th Road, Elkridge, MD 21075",(683) 855-7023,mannBR@myuni.db,Architecture
+Egypt,Zahava,McLeod,2344812374,06-Mar-96,"9260 Pennington Dr., Lexington, NC 27292",(687) 379-1427,mcleodEG@myuni.db,Humanities
+Paityn,Zemirah,Park,2344668826,06-Apr-05,"2 Cobblestone St., Lowell, MA 01851",(288) 756-2651,parkPA@myuni.db,Science
+Billie,Zyah,Phillips,2344546560,19-Jul-96,"17 Hill Field Rd., Bartlett, IL 60103",(836) 209-0299,phillipsBI@myuni.db,Engineering
+India,Abigale,Pitts,2344557349,05-Oct-97,"41 Ridgeview Street, Sicklerville, NJ 08081",(899) 601-0126,pittsIN@myuni.db,Science
+Nancy,Adelaine,Gould,2344289560,05-Dec-05,"216 Oklahoma Road, Willoughby, OH 44094",(605) 403-5522,gouldNA@myuni.db,Architecture
+Mazikeen,Ailana,Shapiro,2344184564,28-Jan-02,"7918 Ridgeview St., Chicago Heights, IL 60411",(824) 896-4564,shapiroMA@myuni.db,Science
+Aubrielle,Alizabeth,Vincent,2344185242,30-Mar-01,"30 Sleepy Hollow St., Mason City, IA 50401",(442) 238-2149,vincentAU@myuni.db,Arts
+Ainhoa,Amayra,Fisher,2344633919,08-Sep-99,"891 East Bay Meadows Street, Leland, NC 28451",(535) 689-6641,fisherAI@myuni.db,Agriculture
+Elina,Anyeli,McPherson,2344649932,30-Aug-99,"8161 Military St., Fresh Meadows, NY 11365",(270) 252-3744,mcphersonEL@myuni.db,Engineering
+Magdalena,Ariam,McFarland,2344902208,19-Sep-04,"7691 Golden Star Drive, Skokie, IL 60076",(860) 824-3156,mcfarlandMA@myuni.db,Science
+Arleth,Bayley,Holden,2344759894,18-Apr-05,"8184 Shady Street, Downingtown, PA 19335",(708) 492-3855,holdenAR@myuni.db,Science
+Judith,Blu,Hartman,2344212082,15-Aug-95,"432 Chapel Ave., Winona, MN 55987",(763) 691-1518,hartmanJU@myuni.db,Architecture
+Emberlynn,Breeze,Friedman,2344234177,01-Feb-04,"7484 East Newcastle Ave., Abingdon, MD 21009",(598) 625-0575,friedmanEM@myuni.db,Architecture
+Paola,Brileigh,Adcock,2344306886,16-Feb-98,"9190 Kingston Drive, Ambler, PA 19002",(591) 525-9548,adcockPA@myuni.db,Architecture
+Guinevere,Cari,Lang,2344112935,31-Jan-98,"8304 Big Rock Cove Court, Allison Park, PA 15101",(799) 670-8774,langGU@myuni.db,Humanities
+Aiyana,Clio,Aldridge,2344411304,28-Jun-96,"748 County Circle, Pickerington, OH 43147",(521) 363-3054,aldridgeAI@myuni.db,Humanities
+Lyanna,Delyla,Davies,2344979567,28-Feb-00,"9 8th St., Framingham, MA 01701",(273) 729-7504,daviesLY@myuni.db,Science
+Itzayana,Elisia,Ferrell,2344362755,12-May-02,"435 Hudson Ave., Canfield, OH 44406",(526) 696-8985,ferrellIT@myuni.db,Social Work
+Frida,Elva,Hedrick,2344638386,06-May-96,"890 Fremont Drive, Clarkston, MI 48348",(960) 209-5182,hedrickFR@myuni.db,Engineering
+Kiera,Falynn,Singh,2344558814,12-Jan-97,"6 Griffin St., Lakeland, FL 33801",(821) 997-6363,singhKI@myuni.db,Agriculture
+Azaria,Gaby,Blalock,2344671406,29-Dec-00,"47 Alderwood St., Nutley, NJ 07110",(610) 218-3835,blalockAZ@myuni.db,Social Work
+Kamilah,Golden,Grossman,2344440625,28-Jan-97,"326 Cottage Road, Maryville, TN 37803",(811) 860-6662,grossmanKA@myuni.db,Agriculture
+Kyleigh,Ilse,Pugh,2344767414,06-Dec-02,"9753 Corona Road, Annapolis, MD 21401",(899) 721-5113,pughKY@myuni.db,Humanities
+Nataly,Jaylie,Fernandez,2344731346,10-Jun-95,"9352 Bear Hill St., Bountiful, UT 84010",(568) 759-3833,fernandezNA@myuni.db,Science
+Zoya,Jodie,Arnold,2344520326,25-May-00,"9627 Mill Ave., Greer, SC 29650",(218) 611-1858,arnoldZO@myuni.db,Science
+Soraya,Kailea,Stanley,2344717963,21-May-95,"943 University St., Oviedo, FL 32765",(641) 566-6179,stanleySO@myuni.db,Architecture
+Arlette,Kristel,Field,2344219719,30-Apr-96,"145 Longfellow Street, Murrells Inlet, SC 29576",(238) 338-5407,fieldAR@myuni.db,Architecture
+Luisa,Layal,Farmer,2344971847,26-Oct-05,"17 Queen St., Royal Oak, MI 48067",(728) 987-4555,farmerLU@myuni.db,Architecture
+Ryder,Liliane,Jernigan,2344502610,16-Feb-00,"394 Bear Hill St., Lockport, NY 14094",(649) 966-0598,jerniganRY@myuni.db,Humanities
+Tori,Lorna,Bowers,2344568423,08-May-03,"9177 Sierra Lane, Harrison Township, MI 48045",(623) 611-7435,bowersTO@myuni.db,Architecture
+Eleanora,Marcia,Crabtree,2344282947,09-Aug-96,"47 Military St., Wausau, WI 54401",(936) 847-0546,crabtreeEL@myuni.db,Social Work
+Soleil,Metztli,Archer,2344821269,15-Mar-95,"513 Henry Smith Rd., Southgate, MI 48195",(213) 635-5748,archerSO@myuni.db,Science
