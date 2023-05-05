@@ -6,9 +6,10 @@ With features like adding, viewing and updating Student and Instructor records a
 Since database used is MySQL, you will need the following thigs to run the project:
 1. MySQL server which, if you don't have installed in you computer, can be downloaded [here](https://dev.mysql.com/downloads/mysql/).  
 2. Few external libraries as follows:  
-  i. `my-sql-connector` to connect to database using **JDBC**(Java Database Connectivity) and run required queries.  
+  i. `my-sql-connector`__*__ to connect to database using **JDBC**(Java Database Connectivity) and run required queries.  
   ii. `jcalander`, an externel library to add calander into system where required.  
   iii. `rs2xml` to convert **ResultSet**, resulted from running queries, into xml to easilty display result into **JTable**.  
+  __*__ You will require `derby.jar` if you want your database to be __Derby DB__.
 All of the libraries are available inside jar folder
 # Running the code
 Attach all three libraries to your project and run `Login.java`.  
