@@ -26,6 +26,8 @@ will use another database called `Apache Derby` which does not require any usern
 Also, it is upto the user which database they want to use, either `MySQL` or `Apache Derby`.  
 **Note**: To develop this kind of class, it will take few days.  
       Once the desired project is completed, I will modify and add comments to code for better understanding.  
+# Database
+You have two option to select a database, select only **1** from `MySQL` or `Derby DB`. This application is not designed to run *CRUD* operations on both of the databases at the same time.  
 # Updates
 Any changes regarding source code will be updated as they are made and can be seen in `updates.md` file.
 # Cloning repository
