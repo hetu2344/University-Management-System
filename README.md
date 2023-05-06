@@ -42,7 +42,8 @@ Derby DB is a database provided by Apache and is developed for java.
 You only need derby.jar file as external library/dependency into your 
 project.
 The location for derby DB database is the project folder. However, you will not get good database workspace just like MySQL have MySQL workbench.  
-**Note**: You will require CSV Files directory to create database. CSV Files contains two .csv files, Students and Instructor. There are 500 and 150 rows in Student.csv and Instructor.csv respectively.  
+## Files needed to Create Database
+You will require CSV Files directory to create database. CSV Files contains two .csv files, Students and Instructor. There are 500 and 150 rows in Student.csv and Instructor.csv respectively.  
 # Updates
 Any changes regarding source code will be updated as they are made and can be seen in `updates.md` file.
 # Cloning repository
