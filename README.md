@@ -28,6 +28,15 @@ Also, it is upto the user which database they want to use, either `MySQL` or `Ap
       Once the desired project is completed, I will modify and add comments to code for better understanding.  
 # Database
 You have two option to select a database, select only **1** from `MySQL` or `Derby DB`. This application is not designed to run *CRUD* operations on both of the databases at the same time.  
+## MySQL
+If you want your database to be **MySQL**, then you will need my-sql-connector library.  
+Since to get access to any database stores in MySQL we need a username and password for the connection. Moreover,this application is based on locally stored database username and password for 
+each device will be different, so the application will ask you to provide username and password to connect the database. Also, provide user which have **previlage** to do *CURD* operations in your
+MySQL server.
+### Initializing the database in MySQL
+If you are using the application for first time, then you will have to CREATE the database locally first, which you will be asked at the beginning.  
+The database will be stored into localhost:3308, which is default location for hosting databases locally in MySQL.  
+The application will also ask for 
 # Updates
 Any changes regarding source code will be updated as they are made and can be seen in `updates.md` file.
 # Cloning repository
