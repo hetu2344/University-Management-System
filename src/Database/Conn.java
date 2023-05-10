@@ -1,6 +1,9 @@
 package Database;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 public class Conn {
 
@@ -8,14 +11,14 @@ public class Conn {
     public Statement stmt;
 
     public Conn() throws SQLException, ClassNotFoundException {
-        Class.forName("org.apache.derby.iapi.jdbc.Driver42");
+        // Class.forName("org.apache.derby.iapi.jdbc.Driver42");
 
         c = DriverManager.getConnection("jdbc:derby:UniversityDB;");
         stmt = c.createStatement();
     }
 
     public Conn(String username, String password) throws SQLException, ClassNotFoundException {
-        Class.forName("com.mysql.cj.jdbc.Driver");
+        // Class.forName("com.mysql.cj.jdbc.Driver");
 
         c = DriverManager.getConnection("jdbc:mysql:///UniversityDB", username, password);
         stmt = c.createStatement();

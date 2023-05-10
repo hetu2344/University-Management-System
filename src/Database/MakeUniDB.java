@@ -1,12 +1,25 @@
 package Database;
 
-import javax.swing.*;
-import java.awt.*;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.*;
-import java.sql.*;
-import java.util.*;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.Scanner;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPasswordField;
+import javax.swing.JTextField;
 
 public class MakeUniDB extends JFrame implements ActionListener {
 
@@ -98,7 +111,7 @@ public class MakeUniDB extends JFrame implements ActionListener {
         Connection conn = null;
         try {
 
-            Class.forName("com.mysql.cj.jdbc.Driver");
+            // Class.forName("com.mysql.cj.jdbc.Driver");
 
             conn = DriverManager.getConnection("jdbc:mysql:", userName, password);
 
@@ -126,13 +139,14 @@ public class MakeUniDB extends JFrame implements ActionListener {
                 JOptionPane.showMessageDialog(null, "Student.csv or Instructor.csv file not found");
                 return false;
             }
-        } catch(FileNotFoundException ef) {
+        } catch (FileNotFoundException ef) {
             JOptionPane.showMessageDialog(null, "Student.csv or Instructor.csv file not found");
             return false;
-        } catch(ClassNotFoundException ec) {
-            JOptionPane.showMessageDialog(null, "MySQL library not detected");
-            return false;
-        }
+        } 
+        // catch(ClassNotFoundException ec) {
+        //     JOptionPane.showMessageDialog(null, "MySQL library not detected");
+        //     return false;
+        // }
         return true;
     }
 
@@ -218,7 +232,7 @@ public class MakeUniDB extends JFrame implements ActionListener {
         Statement stmt = con.createStatement();
         stmt.execute("CREATE TABLE instructor (fname varchar(40), mname varchar(40), lname varchar(40), empID varchar(40), dob varchar(40), address varchar(400), mobile varchar(40), email varchar(40), faculty varchar(40))");
 
-        Scanner s = new Scanner(new File("CSV files/Instructor.csv"));
+        Scanner s = new Scanner(new File("University-Management-System/CSV files/Instructor.csv"));
         s.nextLine();
 
         String[] s1;
@@ -232,7 +246,7 @@ public class MakeUniDB extends JFrame implements ActionListener {
 
     private void buildStudentTable(Connection con) throws SQLException, FileNotFoundException {
         Statement stmt = con.createStatement();
-        Scanner s = new Scanner(new File("CSV files/Student.csv"));
+        Scanner s = new Scanner(new File("University-Management-System/CSV files/Student.csv"));
 
         stmt.execute("CREATE TABLE student(fname varchar(40), mname varchar(40), lname varchar(40), studentNo varchar(40), dob varchar(40), address varchar(400), mobile varchar(40), email varchar(40), faculty varchar(40))");
 
@@ -250,7 +264,7 @@ public class MakeUniDB extends JFrame implements ActionListener {
     private boolean createDB_DerbyAB() {
         Connection conn;
         try {
-            Class.forName("org.apache.derby.iapi.jdbc.Driver42");
+            // Class.forName("org.apache.derby.iapi.jdbc.Driver42");
             conn = DriverManager.getConnection("jdbc:derby:UniversityDB;create=true");
 
             createTable(conn);
@@ -260,13 +274,14 @@ public class MakeUniDB extends JFrame implements ActionListener {
         } catch(SQLException e) {
             JOptionPane.showMessageDialog(null, "Error in connection to database, at " + e.getMessage());
             return false;
-        } catch(FileNotFoundException ef) {
+        } catch (FileNotFoundException ef) {
             JOptionPane.showMessageDialog(null, "Student.csv or Instructor.csv file not found");
             return false;
-        } catch(ClassNotFoundException ec) {
-            JOptionPane.showMessageDialog(null, "Derby DB library not found");
-            return false;
-        }
+        } 
+        // catch(ClassNotFoundException ec) {
+        //     JOptionPane.showMessageDialog(null, "Derby DB library not found");
+        //     return false;
+        // }
         return true;
     }
 

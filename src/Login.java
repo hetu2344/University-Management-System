@@ -1,12 +1,27 @@
-import Interface.MainScreen;
+import java.awt.Choice;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.Image;
+import java.awt.Toolkit;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
-import javax.swing.*;
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JPasswordField;
+import javax.swing.JRadioButton;
+import javax.swing.JTextField;
+
 import Database.Conn;
 import Database.MakeUniDB;
-
-import java.awt.*;
-import java.awt.event.*;
-import java.sql.*;
+import Interface.MainScreen;
 
 public class Login extends JFrame implements ActionListener {
 
@@ -85,7 +100,7 @@ public class Login extends JFrame implements ActionListener {
     private void initializeLoginPanel() {
         loginPanel = new JPanel(null);
         //Adding the background image
-        ImageIcon background = new ImageIcon("icons/second.jpg");
+        ImageIcon background = new ImageIcon("University-Management-System/icons/second.jpg");
         //Scaling the Image
         Image i2 = background.getImage().getScaledInstance(50, 50, Image.SCALE_DEFAULT);
         background = new ImageIcon(i2);

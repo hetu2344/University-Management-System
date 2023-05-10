@@ -1,13 +1,29 @@
 package Interface;
 
+import java.awt.Dimension;
+import java.awt.Image;
+import java.awt.Toolkit;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+import javax.swing.JMenuItem;
+
 import Database.Conn;
-import Instructor.*;
-import Student.*;
-
-
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
+import Instructor.AddInstructor;
+import Instructor.InstructorLeave;
+import Instructor.InstructorLeaveDetails;
+import Instructor.UpdateInstructor;
+import Instructor.ViewInstructorInfo;
+import Student.AddStudentInfo;
+import Student.StudentLeave;
+import Student.StudentLeaveDetails;
+import Student.UpdateStudent;
+import Student.ViewStudentInfo;
 
 public class MainScreen extends JFrame implements ActionListener {
 
@@ -22,7 +38,7 @@ public class MainScreen extends JFrame implements ActionListener {
         final int WIDTH = screenSize.width, LENGTH = screenSize.height;
 
         //Adding the background image
-        ImageIcon background = new ImageIcon("icons/third.jpg");
+        ImageIcon background = new ImageIcon("University-Management-System/icons/third.jpg");
         //Scaling the Image
         Image i2 = background.getImage().getScaledInstance(WIDTH, LENGTH - 100, Image.SCALE_DEFAULT);
         background = new ImageIcon(i2);
